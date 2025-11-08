@@ -13,7 +13,7 @@ The original EHR data are hosted on the OMIX platform under controlled access (a
 
 1.  **Clone Repo:**
     ```bash
-    git clone https://github.com/yourusername/CardioEHR.git
+    git clone git@github.com:biosubmit/CardioEHR.git
     cd CardioEHR
     ```
 

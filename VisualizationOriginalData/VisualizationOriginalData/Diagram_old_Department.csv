@@ -1,0 +1,3249 @@
+"","admission.department","discharge.department","flow"
+"1","Urology","Ⅱ2 Hepatobiliary Surgery",1
+"2","Anorectal Surgery","Anorectal Surgery",1
+"3","Anorectal Surgery","Anorectal Surgery",1
+"4","Anorectal Surgery","Anorectal Surgery",2
+"5","Anorectal Surgery","Anorectal Surgery",1
+"6","Anorectal Surgery","Anorectal Surgery",4
+"7","Anorectal Surgery","Anorectal Surgery",6
+"8","Anorectal Surgery","Anorectal Surgery",3
+"9","Anorectal Surgery","Anorectal Surgery",1
+"10","Anorectal Surgery","Anorectal Surgery",1
+"11","Anorectal Surgery","Anorectal Surgery",2
+"12","Anorectal Surgery","Anorectal Surgery",2
+"13","Anorectal Surgery","Anorectal Surgery",1
+"14","Anorectal Surgery","Anorectal Surgery",8
+"15","Anorectal Surgery","Anorectal Surgery",6
+"16","Anorectal Surgery","Anorectal Surgery",9
+"17","Anorectal Surgery","Anorectal Surgery",2
+"18","Anorectal Surgery","Anorectal Surgery",4
+"19","Anorectal Surgery","Anorectal Surgery",1
+"20","Anorectal Surgery","Anorectal Surgery",1
+"21","Anorectal Surgery","Anorectal Surgery",1
+"22","Anorectal Surgery","Anorectal Surgery",1
+"23","Anorectal Surgery","Anorectal Surgery",2
+"24","Anorectal Surgery","Anorectal Surgery",1
+"25","Anorectal Surgery","Anorectal Surgery",2
+"26","Anorectal Surgery","Anorectal Surgery",1
+"27","Anorectal Surgery","Anorectal Surgery",3
+"28","Anorectal Surgery","Anorectal Surgery",1
+"29","Cardiology","Anorectal Surgery",1
+"30","Gastroenterology","Anorectal Surgery",1
+"31","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"32","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"33","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"34","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"35","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"36","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"37","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",8
+"38","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"39","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"40","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"41","Breast Thyroid Oncology Surgery","Breast Thyroid Oncology Surgery",1
+"42","Department of Traditional Chinese Medicine","Breast Thyroid Oncology Surgery",1
+"43","Breast Thyroid Oncology Surgery","Breast Thyroid Surgery",1
+"44","Breast Thyroid Oncology Surgery","Breast Thyroid Surgery",1
+"45","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"46","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"47","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"48","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"49","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"50","Breast Thyroid Surgery","Breast Thyroid Surgery",4
+"51","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"52","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"53","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"54","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"55","Breast Thyroid Surgery","Breast Thyroid Surgery",5
+"56","Breast Thyroid Surgery","Breast Thyroid Surgery",4
+"57","Breast Thyroid Surgery","Breast Thyroid Surgery",3
+"58","Breast Thyroid Surgery","Breast Thyroid Surgery",6
+"59","Breast Thyroid Surgery","Breast Thyroid Surgery",4
+"60","Breast Thyroid Surgery","Breast Thyroid Surgery",7
+"61","Breast Thyroid Surgery","Breast Thyroid Surgery",7
+"62","Breast Thyroid Surgery","Breast Thyroid Surgery",10
+"63","Breast Thyroid Surgery","Breast Thyroid Surgery",19
+"64","Breast Thyroid Surgery","Breast Thyroid Surgery",11
+"65","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"66","Breast Thyroid Surgery","Breast Thyroid Surgery",12
+"67","Breast Thyroid Surgery","Breast Thyroid Surgery",4
+"68","Breast Thyroid Surgery","Breast Thyroid Surgery",10
+"69","Breast Thyroid Surgery","Breast Thyroid Surgery",25
+"70","Breast Thyroid Surgery","Breast Thyroid Surgery",6
+"71","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"72","Breast Thyroid Surgery","Breast Thyroid Surgery",5
+"73","Breast Thyroid Surgery","Breast Thyroid Surgery",7
+"74","Breast Thyroid Surgery","Breast Thyroid Surgery",3
+"75","Breast Thyroid Surgery","Breast Thyroid Surgery",3
+"76","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"77","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"78","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"79","Breast Thyroid Surgery","Breast Thyroid Surgery",2
+"80","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"81","Breast Thyroid Surgery","Breast Thyroid Surgery",3
+"82","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"83","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"84","Breast Thyroid Surgery","Breast Thyroid Surgery",1
+"85","Department of Traditional Chinese Medicine","Breast Thyroid Surgery",1
+"86","Cancer Center Ward 8","Cancer Center Ward 8",1
+"87","Breast Thyroid Surgery","Cardiac Large Vascular Surgery",1
+"88","Breast Thyroid Surgery","Cardiac Large Vascular Surgery",1
+"89","Breast Thyroid Surgery","Cardiac Large Vascular Surgery",1
+"90","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"91","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"92","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"93","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",2
+"94","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"95","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",2
+"96","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"97","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",8
+"98","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",11
+"99","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",4
+"100","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",6
+"101","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",9
+"102","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",13
+"103","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",11
+"104","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",14
+"105","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",24
+"106","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",32
+"107","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",31
+"108","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",49
+"109","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",58
+"110","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",46
+"111","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",43
+"112","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",70
+"113","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",75
+"114","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",84
+"115","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",125
+"116","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",106
+"117","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",109
+"118","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",85
+"119","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",105
+"120","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",95
+"121","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",119
+"122","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",132
+"123","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",139
+"124","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",168
+"125","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",171
+"126","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",175
+"127","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",156
+"128","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",137
+"129","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",134
+"130","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",133
+"131","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",113
+"132","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",87
+"133","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",85
+"134","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",71
+"135","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",60
+"136","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",48
+"137","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",37
+"138","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",34
+"139","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",27
+"140","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",17
+"141","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",9
+"142","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",4
+"143","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",3
+"144","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",5
+"145","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"146","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",3
+"147","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",3
+"148","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery",1
+"149","Cardiac Large Vascular Surgery Monitoring Room","Cardiac Large Vascular Surgery",1
+"150","Cardiology","Cardiac Large Vascular Surgery",2
+"151","Cardiology","Cardiac Large Vascular Surgery",1
+"152","Cardiology","Cardiac Large Vascular Surgery",2
+"153","Cardiology","Cardiac Large Vascular Surgery",1
+"154","Cardiology","Cardiac Large Vascular Surgery",1
+"155","Cardiology","Cardiac Large Vascular Surgery",1
+"156","Cardiology","Cardiac Large Vascular Surgery",1
+"157","Cardiology","Cardiac Large Vascular Surgery",3
+"158","Cardiology","Cardiac Large Vascular Surgery",1
+"159","Cardiology","Cardiac Large Vascular Surgery",3
+"160","Cardiology","Cardiac Large Vascular Surgery",2
+"161","Cardiology","Cardiac Large Vascular Surgery",9
+"162","Cardiology","Cardiac Large Vascular Surgery",2
+"163","Cardiology","Cardiac Large Vascular Surgery",9
+"164","Cardiology","Cardiac Large Vascular Surgery",4
+"165","Cardiology","Cardiac Large Vascular Surgery",10
+"166","Cardiology","Cardiac Large Vascular Surgery",16
+"167","Cardiology","Cardiac Large Vascular Surgery",11
+"168","Cardiology","Cardiac Large Vascular Surgery",8
+"169","Cardiology","Cardiac Large Vascular Surgery",9
+"170","Cardiology","Cardiac Large Vascular Surgery",4
+"171","Cardiology","Cardiac Large Vascular Surgery",8
+"172","Cardiology","Cardiac Large Vascular Surgery",11
+"173","Cardiology","Cardiac Large Vascular Surgery",13
+"174","Cardiology","Cardiac Large Vascular Surgery",8
+"175","Cardiology","Cardiac Large Vascular Surgery",15
+"176","Cardiology","Cardiac Large Vascular Surgery",13
+"177","Cardiology","Cardiac Large Vascular Surgery",14
+"178","Cardiology","Cardiac Large Vascular Surgery",15
+"179","Cardiology","Cardiac Large Vascular Surgery",12
+"180","Cardiology","Cardiac Large Vascular Surgery",10
+"181","Cardiology","Cardiac Large Vascular Surgery",13
+"182","Cardiology","Cardiac Large Vascular Surgery",12
+"183","Cardiology","Cardiac Large Vascular Surgery",15
+"184","Cardiology","Cardiac Large Vascular Surgery",6
+"185","Cardiology","Cardiac Large Vascular Surgery",8
+"186","Cardiology","Cardiac Large Vascular Surgery",5
+"187","Cardiology","Cardiac Large Vascular Surgery",3
+"188","Cardiology","Cardiac Large Vascular Surgery",5
+"189","Cardiology","Cardiac Large Vascular Surgery",1
+"190","Cardiology","Cardiac Large Vascular Surgery",2
+"191","Cardiology","Cardiac Large Vascular Surgery",1
+"192","Cardiology","Cardiac Large Vascular Surgery",1
+"193","Comprehensive internal medicine","Cardiac Large Vascular Surgery",1
+"194","Comprehensive internal medicine","Cardiac Large Vascular Surgery",2
+"195","Comprehensive Surgery","Cardiac Large Vascular Surgery",1
+"196","Department of Infectious Diseases","Cardiac Large Vascular Surgery",1
+"197","Department of Infectious Diseases","Cardiac Large Vascular Surgery",1
+"198","Department of Traditional Chinese Medicine","Cardiac Large Vascular Surgery",1
+"199","Department of Traditional Chinese Medicine","Cardiac Large Vascular Surgery",1
+"200","Endocrinology Department","Cardiac Large Vascular Surgery",1
+"201","Neurology","Cardiac Large Vascular Surgery",1
+"202","Neurology","Cardiac Large Vascular Surgery",1
+"203","Neurology","Cardiac Large Vascular Surgery",1
+"204","Neurology","Cardiac Large Vascular Surgery",1
+"205","Neurosurgery","Cardiac Large Vascular Surgery",1
+"206","Neurosurgery","Cardiac Large Vascular Surgery",1
+"207","orthopedics","Cardiac Large Vascular Surgery",1
+"208","Respiratory and Critical Care Medicine","Cardiac Large Vascular Surgery",1
+"209","Respiratory Medicine","Cardiac Large Vascular Surgery",1
+"210","Respiratory Medicine","Cardiac Large Vascular Surgery",1
+"211","Urology","Cardiac Large Vascular Surgery",1
+"212","Vascular Surgery","Cardiac Large Vascular Surgery",1
+"213","Vascular Surgery","Cardiac Large Vascular Surgery",1
+"214","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery Monitoring Room",2
+"215","Cardiac Large Vascular Surgery","Cardiac Large Vascular Surgery Monitoring Room",2
+"216","Breast Thyroid Surgery","Cardiology",1
+"217","Breast Thyroid Surgery","Cardiology",1
+"218","Cardiac Large Vascular Surgery","Cardiology",1
+"219","Cardiac Large Vascular Surgery","Cardiology",1
+"220","Cardiac Large Vascular Surgery","Cardiology",2
+"221","Cardiac Large Vascular Surgery","Cardiology",1
+"222","Cardiac Large Vascular Surgery","Cardiology",2
+"223","Cardiac Large Vascular Surgery","Cardiology",4
+"224","Cardiac Large Vascular Surgery","Cardiology",1
+"225","Cardiac Large Vascular Surgery","Cardiology",4
+"226","Cardiac Large Vascular Surgery","Cardiology",1
+"227","Cardiac Large Vascular Surgery","Cardiology",3
+"228","Cardiac Large Vascular Surgery","Cardiology",5
+"229","Cardiac Large Vascular Surgery","Cardiology",3
+"230","Cardiac Large Vascular Surgery","Cardiology",2
+"231","Cardiac Large Vascular Surgery","Cardiology",5
+"232","Cardiac Large Vascular Surgery","Cardiology",4
+"233","Cardiac Large Vascular Surgery","Cardiology",2
+"234","Cardiac Large Vascular Surgery","Cardiology",2
+"235","Cardiac Large Vascular Surgery","Cardiology",2
+"236","Cardiac Large Vascular Surgery","Cardiology",2
+"237","Cardiac Large Vascular Surgery","Cardiology",4
+"238","Cardiac Large Vascular Surgery","Cardiology",4
+"239","Cardiac Large Vascular Surgery","Cardiology",1
+"240","Cardiac Large Vascular Surgery","Cardiology",1
+"241","Cardiac Large Vascular Surgery","Cardiology",2
+"242","Cardiac Large Vascular Surgery","Cardiology",3
+"243","Cardiac Large Vascular Surgery","Cardiology",1
+"244","Cardiac Large Vascular Surgery","Cardiology",3
+"245","Cardiac Large Vascular Surgery","Cardiology",1
+"246","Cardiac Large Vascular Surgery","Cardiology",3
+"247","Cardiac Large Vascular Surgery","Cardiology",3
+"248","Cardiac Large Vascular Surgery","Cardiology",1
+"249","Cardiac Large Vascular Surgery","Cardiology",1
+"250","Cardiac Large Vascular Surgery","Cardiology",1
+"251","Cardiac Large Vascular Surgery","Cardiology",1
+"252","Cardiology","Cardiology",1
+"253","Cardiology","Cardiology",1
+"254","Cardiology","Cardiology",3
+"255","Cardiology","Cardiology",4
+"256","Cardiology","Cardiology",4
+"257","Cardiology","Cardiology",5
+"258","Cardiology","Cardiology",5
+"259","Cardiology","Cardiology",10
+"260","Cardiology","Cardiology",13
+"261","Cardiology","Cardiology",13
+"262","Cardiology","Cardiology",21
+"263","Cardiology","Cardiology",27
+"264","Cardiology","Cardiology",32
+"265","Cardiology","Cardiology",37
+"266","Cardiology","Cardiology",60
+"267","Cardiology","Cardiology",57
+"268","Cardiology","Cardiology",54
+"269","Cardiology","Cardiology",67
+"270","Cardiology","Cardiology",83
+"271","Cardiology","Cardiology",95
+"272","Cardiology","Cardiology",126
+"273","Cardiology","Cardiology",127
+"274","Cardiology","Cardiology",188
+"275","Cardiology","Cardiology",193
+"276","Cardiology","Cardiology",253
+"277","Cardiology","Cardiology",351
+"278","Cardiology","Cardiology",395
+"279","Cardiology","Cardiology",394
+"280","Cardiology","Cardiology",425
+"281","Cardiology","Cardiology",520
+"282","Cardiology","Cardiology",552
+"283","Cardiology","Cardiology",639
+"284","Cardiology","Cardiology",698
+"285","Cardiology","Cardiology",748
+"286","Cardiology","Cardiology",814
+"287","Cardiology","Cardiology",737
+"288","Cardiology","Cardiology",790
+"289","Cardiology","Cardiology",759
+"290","Cardiology","Cardiology",858
+"291","Cardiology","Cardiology",989
+"292","Cardiology","Cardiology",1017
+"293","Cardiology","Cardiology",1042
+"294","Cardiology","Cardiology",1057
+"295","Cardiology","Cardiology",1045
+"296","Cardiology","Cardiology",1052
+"297","Cardiology","Cardiology",1012
+"298","Cardiology","Cardiology",1001
+"299","Cardiology","Cardiology",985
+"300","Cardiology","Cardiology",919
+"301","Cardiology","Cardiology",861
+"302","Cardiology","Cardiology",806
+"303","Cardiology","Cardiology",748
+"304","Cardiology","Cardiology",727
+"305","Cardiology","Cardiology",658
+"306","Cardiology","Cardiology",674
+"307","Cardiology","Cardiology",642
+"308","Cardiology","Cardiology",586
+"309","Cardiology","Cardiology",496
+"310","Cardiology","Cardiology",407
+"311","Cardiology","Cardiology",391
+"312","Cardiology","Cardiology",397
+"313","Cardiology","Cardiology",338
+"314","Cardiology","Cardiology",278
+"315","Cardiology","Cardiology",229
+"316","Cardiology","Cardiology",162
+"317","Cardiology","Cardiology",117
+"318","Cardiology","Cardiology",93
+"319","Cardiology","Cardiology",70
+"320","Cardiology","Cardiology",77
+"321","Cardiology","Cardiology",50
+"322","Cardiology","Cardiology",29
+"323","Cardiology","Cardiology",13
+"324","Cardiology","Cardiology",11
+"325","Cardiology","Cardiology",8
+"326","Cardiology","Cardiology",2
+"327","Cardiology","Cardiology",10
+"328","Cardiology","Cardiology",1
+"329","Cardiology","Cardiology",1
+"330","Cardiology","Cardiology",2
+"331","Chest Oncology Surgery","Cardiology",1
+"332","Chest Oncology Surgery","Cardiology",1
+"333","Chest Oncology Surgery","Cardiology",1
+"334","Comprehensive internal medicine","Cardiology",1
+"335","Comprehensive internal medicine","Cardiology",1
+"336","Comprehensive internal medicine","Cardiology",3
+"337","Comprehensive internal medicine","Cardiology",1
+"338","Comprehensive internal medicine","Cardiology",1
+"339","Comprehensive internal medicine","Cardiology",2
+"340","Comprehensive internal medicine","Cardiology",1
+"341","Comprehensive internal medicine","Cardiology",1
+"342","Comprehensive internal medicine","Cardiology",3
+"343","Comprehensive internal medicine","Cardiology",1
+"344","Comprehensive internal medicine","Cardiology",1
+"345","Comprehensive internal medicine","Cardiology",1
+"346","Comprehensive Surgery","Cardiology",1
+"347","Dental department","Cardiology",1
+"348","Dental department","Cardiology",1
+"349","Dental department","Cardiology",1
+"350","Dental department","Cardiology",1
+"351","Department of Critical Care Medicine","Cardiology",1
+"352","Department of Critical Care Medicine","Cardiology",1
+"353","Department of Critical Care Medicine","Cardiology",1
+"354","Department of Critical Care Medicine","Cardiology",1
+"355","Department of Critical Care Medicine","Cardiology",1
+"356","Department of Critical Care Medicine","Cardiology",2
+"357","Department of Critical Care Medicine","Cardiology",1
+"358","Department of Critical Care Medicine","Cardiology",2
+"359","Department of Infectious Diseases","Cardiology",1
+"360","Department of Infectious Diseases","Cardiology",1
+"361","Department of Infectious Diseases","Cardiology",2
+"362","Department of Infectious Diseases","Cardiology",1
+"363","Department of Infectious Diseases","Cardiology",1
+"364","Department of L6 Lymphoma","Cardiology",1
+"365","Department of Rehabilitation Medicine","Cardiology",1
+"366","Department of Traditional Chinese Medicine","Cardiology",1
+"367","Department of Traditional Chinese Medicine","Cardiology",1
+"368","Department of Traditional Chinese Medicine","Cardiology",1
+"369","Department of Traditional Chinese Medicine","Cardiology",1
+"370","Department of Traditional Chinese Medicine","Cardiology",1
+"371","Department of Traditional Chinese Medicine","Cardiology",2
+"372","Department of Traditional Chinese Medicine","Cardiology",2
+"373","Department of Traditional Chinese Medicine","Cardiology",1
+"374","Department of Traditional Chinese Medicine","Cardiology",1
+"375","Department of Traditional Chinese Medicine","Cardiology",1
+"376","Department of Traditional Chinese Medicine","Cardiology",1
+"377","Department of Traditional Chinese Medicine","Cardiology",1
+"378","dermatology","Cardiology",1
+"379","dermatology","Cardiology",1
+"380","Digestive Oncology Surgery","Cardiology",1
+"381","Emergency Surgery","Cardiology",1
+"382","Emergency Surgery","Cardiology",1
+"383","Emergency Surgery","Cardiology",1
+"384","Emergency Surgery","Cardiology",1
+"385","Emergency Surgery","Cardiology",1
+"386","Emergency Surgery","Cardiology",1
+"387","Emergency Ward","Cardiology",1
+"388","Emergency Ward","Cardiology",2
+"389","Emergency Ward","Cardiology",1
+"390","Emergency Ward","Cardiology",1
+"391","Emergency Ward","Cardiology",1
+"392","Emergency Ward","Cardiology",1
+"393","Emergency Ward","Cardiology",1
+"394","Emergency Ward","Cardiology",2
+"395","Emergency Ward","Cardiology",1
+"396","Emergency Ward","Cardiology",1
+"397","Emergency Ward","Cardiology",1
+"398","Emergency Ward","Cardiology",1
+"399","Endocrinology Department","Cardiology",1
+"400","Endocrinology Department","Cardiology",1
+"401","Endocrinology Department","Cardiology",1
+"402","Endocrinology Department","Cardiology",3
+"403","Endocrinology Department","Cardiology",1
+"404","Endocrinology Department","Cardiology",1
+"405","Endocrinology Department","Cardiology",1
+"406","Endocrinology Department","Cardiology",2
+"407","Endocrinology Department","Cardiology",1
+"408","Endocrinology Department","Cardiology",1
+"409","Gastroenterology","Cardiology",1
+"410","Gastroenterology","Cardiology",1
+"411","Gastroenterology","Cardiology",1
+"412","Gastroenterology","Cardiology",2
+"413","Gastroenterology","Cardiology",2
+"414","Gastroenterology","Cardiology",1
+"415","Gastroenterology","Cardiology",1
+"416","Gastroenterology","Cardiology",1
+"417","Gastroenterology","Cardiology",3
+"418","Gastroenterology","Cardiology",1
+"419","Gastroenterology","Cardiology",1
+"420","Gastroenterology","Cardiology",1
+"421","Gastroenterology Surgery","Cardiology",1
+"422","Gastroenterology Surgery","Cardiology",1
+"423","Gastroenterology Surgery","Cardiology",1
+"424","Gastroenterology Surgery II","Cardiology",1
+"425","Gastroenterology Surgery II","Cardiology",1
+"426","Gastroenterology Surgery II","Cardiology",1
+"427","Gastroenterology Surgery II","Cardiology",1
+"428","Gastroenterology Surgery II","Cardiology",1
+"429","Gynecology","Cardiology",1
+"430","Gynecology","Cardiology",1
+"431","Hepatobiliary Surgery","Cardiology",1
+"432","Hepatobiliary Surgery","Cardiology",1
+"433","Hepatobiliary Surgery","Cardiology",1
+"434","Hepatobiliary Surgery","Cardiology",1
+"435","Hepatobiliary Surgery","Cardiology",1
+"436","Hepatobiliary Surgery","Cardiology",1
+"437","Interventional Radiology","Cardiology",1
+"438","Interventional Radiology","Cardiology",1
+"439","M2 Gynecological Oncology DepartmentⅠ","Cardiology",1
+"440","M3 Urology, Gynecology and Oncology Department II","Cardiology",1
+"441","N14","Cardiology",1
+"442","Nephropathy Department","Cardiology",1
+"443","Nephropathy Department","Cardiology",1
+"444","Nephropathy Department","Cardiology",2
+"445","Nephropathy Department","Cardiology",1
+"446","Nephropathy Department","Cardiology",1
+"447","Nephropathy Department","Cardiology",2
+"448","Nephropathy Department","Cardiology",3
+"449","Nephropathy Department","Cardiology",1
+"450","Nephropathy Department","Cardiology",3
+"451","Nephropathy Department","Cardiology",2
+"452","Nephropathy Department","Cardiology",1
+"453","Nephropathy Department","Cardiology",1
+"454","Nephropathy Department","Cardiology",2
+"455","Nephropathy Department","Cardiology",1
+"456","Nephropathy Department","Cardiology",1
+"457","Nephropathy Department","Cardiology",2
+"458","Nephropathy Department","Cardiology",1
+"459","Neurology","Cardiology",1
+"460","Neurology","Cardiology",1
+"461","Neurology","Cardiology",1
+"462","Neurology","Cardiology",1
+"463","Neurology","Cardiology",1
+"464","Neurology","Cardiology",1
+"465","Neurology","Cardiology",2
+"466","Neurology","Cardiology",1
+"467","Neurology","Cardiology",1
+"468","Neurology","Cardiology",1
+"469","Neurology","Cardiology",1
+"470","Neurology","Cardiology",1
+"471","Neurology","Cardiology",1
+"472","Neurosurgery","Cardiology",1
+"473","Neurosurgery","Cardiology",1
+"474","Neurosurgery","Cardiology",1
+"475","Neurosurgery","Cardiology",1
+"476","ophthalmology","Cardiology",1
+"477","ophthalmology","Cardiology",1
+"478","ophthalmology","Cardiology",1
+"479","ophthalmology","Cardiology",1
+"480","orthopedics","Cardiology",1
+"481","orthopedics","Cardiology",2
+"482","orthopedics","Cardiology",1
+"483","orthopedics","Cardiology",1
+"484","orthopedics","Cardiology",2
+"485","orthopedics","Cardiology",1
+"486","orthopedics","Cardiology",1
+"487","Otolaryngology","Cardiology",1
+"488","Otolaryngology","Cardiology",1
+"489","Otolaryngology","Cardiology",1
+"490","Otolaryngology","Cardiology",1
+"491","Otolaryngology","Cardiology",1
+"492","Pain Department","Cardiology",1
+"493","Plastic Surgery","Cardiology",1
+"494","Respiratory and Critical Care Medicine","Cardiology",1
+"495","Respiratory and Critical Care Medicine","Cardiology",1
+"496","Respiratory and Critical Care Medicine","Cardiology",1
+"497","Respiratory and Critical Care Medicine","Cardiology",1
+"498","Respiratory and Critical Care Medicine","Cardiology",1
+"499","Respiratory and Critical Care Medicine","Cardiology",1
+"500","Respiratory Medicine","Cardiology",1
+"501","Respiratory Medicine","Cardiology",1
+"502","Respiratory Medicine","Cardiology",1
+"503","Respiratory Medicine","Cardiology",1
+"504","Respiratory Medicine","Cardiology",1
+"505","Respiratory Medicine","Cardiology",2
+"506","Respiratory Medicine","Cardiology",1
+"507","Respiratory Medicine","Cardiology",1
+"508","Respiratory Medicine","Cardiology",2
+"509","Respiratory Medicine","Cardiology",1
+"510","Respiratory Medicine","Cardiology",1
+"511","Rheumatism and Immunology Department","Cardiology",1
+"512","Rheumatism and Immunology Department","Cardiology",1
+"513","Thoracic Surgery","Cardiology",1
+"514","Thoracic Surgery","Cardiology",1
+"515","Thoracic Surgery","Cardiology",1
+"516","Thoracic Surgery","Cardiology",1
+"517","Thoracic Surgery","Cardiology",1
+"518","Urology","Cardiology",1
+"519","Urology","Cardiology",1
+"520","Urology","Cardiology",1
+"521","Urology","Cardiology",1
+"522","Urology","Cardiology",1
+"523","Urology","Cardiology",2
+"524","Urology","Cardiology",1
+"525","Urology","Cardiology",1
+"526","Vascular Surgery","Cardiology",1
+"527","Vascular Surgery","Cardiology",1
+"528","Vascular Surgery","Cardiology",1
+"529","Vascular Surgery","Cardiology",1
+"530","Vascular Surgery","Cardiology",1
+"531","Vascular Surgery","Cardiology",1
+"532","Vascular Surgery","Cardiology",1
+"533","Vascular Surgery","Cardiology",1
+"534","Vascular Surgery","Cardiology",1
+"535","Vascular Surgery","Cardiology",1
+"536","Vascular Surgery","Cardiology",1
+"537","Z11 Digestive Oncology Department I","Cardiology",1
+"538","Z13 Chest Oncology Department I","Cardiology",1
+"539","Z13 Chest Oncology Department I","Cardiology",1
+"540","Z13 Chest Oncology Department I","Cardiology",1
+"541","Z14 Chest Oncology Department II","Cardiology",1
+"542","Z14 Chest Oncology Department II","Cardiology",1
+"543","Z7 Head and Neck Oncology DepartmentⅠ","Cardiology",1
+"544","Z9 Abdominal Oncology Department","Cardiology",1
+"545","Cardiology","Cardiovascular CCU",1
+"546","Chest Oncology Surgery","Chest Oncology Surgery",1
+"547","Chest Oncology Surgery","Chest Oncology Surgery",2
+"548","Chest Oncology Surgery","Chest Oncology Surgery",1
+"549","Chest Oncology Surgery","Chest Oncology Surgery",2
+"550","Chest Oncology Surgery","Chest Oncology Surgery",1
+"551","Chest Oncology Surgery","Chest Oncology Surgery",2
+"552","Chest Oncology Surgery","Chest Oncology Surgery",2
+"553","Chest Oncology Surgery","Chest Oncology Surgery",1
+"554","Chest Oncology Surgery","Chest Oncology Surgery",1
+"555","Chest Oncology Surgery","Chest Oncology Surgery",1
+"556","Chest Oncology Surgery","Chest Oncology Surgery",1
+"557","Chest Oncology Surgery","Chest Oncology Surgery",2
+"558","Chest Oncology Surgery","Chest Oncology Surgery",3
+"559","Chest Oncology Surgery","Chest Oncology Surgery",1
+"560","Gastroenterology","Chest Oncology Surgery",2
+"561","Respiratory Medicine","Chest Oncology Surgery",1
+"562","Respiratory Medicine","Chest Oncology Surgery",1
+"563","Stem Cell Center Cell Therapy Department","Chest Oncology Surgery",1
+"564","Stem Cell Center Cell Therapy Department","Chest Oncology Surgery",1
+"565","Thoracic Surgery","Chest Oncology Surgery",1
+"566","Breast Thyroid Surgery","Comprehensive internal medicine",1
+"567","Cardiology","Comprehensive internal medicine",1
+"568","Cardiology","Comprehensive internal medicine",1
+"569","Cardiology","Comprehensive internal medicine",1
+"570","Cardiology","Comprehensive internal medicine",1
+"571","Cardiology","Comprehensive internal medicine",1
+"572","Cardiology","Comprehensive internal medicine",2
+"573","Cardiology","Comprehensive internal medicine",1
+"574","Cardiology","Comprehensive internal medicine",1
+"575","Cardiology","Comprehensive internal medicine",1
+"576","Cardiology","Comprehensive internal medicine",1
+"577","Cardiology","Comprehensive internal medicine",1
+"578","Comprehensive internal medicine","Comprehensive internal medicine",2
+"579","Comprehensive internal medicine","Comprehensive internal medicine",1
+"580","Comprehensive internal medicine","Comprehensive internal medicine",1
+"581","Comprehensive internal medicine","Comprehensive internal medicine",1
+"582","Comprehensive internal medicine","Comprehensive internal medicine",4
+"583","Comprehensive internal medicine","Comprehensive internal medicine",4
+"584","Comprehensive internal medicine","Comprehensive internal medicine",5
+"585","Comprehensive internal medicine","Comprehensive internal medicine",4
+"586","Comprehensive internal medicine","Comprehensive internal medicine",11
+"587","Comprehensive internal medicine","Comprehensive internal medicine",15
+"588","Comprehensive internal medicine","Comprehensive internal medicine",9
+"589","Comprehensive internal medicine","Comprehensive internal medicine",8
+"590","Comprehensive internal medicine","Comprehensive internal medicine",21
+"591","Comprehensive internal medicine","Comprehensive internal medicine",21
+"592","Comprehensive internal medicine","Comprehensive internal medicine",33
+"593","Comprehensive internal medicine","Comprehensive internal medicine",30
+"594","Comprehensive internal medicine","Comprehensive internal medicine",44
+"595","Comprehensive internal medicine","Comprehensive internal medicine",41
+"596","Comprehensive internal medicine","Comprehensive internal medicine",55
+"597","Comprehensive internal medicine","Comprehensive internal medicine",59
+"598","Comprehensive internal medicine","Comprehensive internal medicine",69
+"599","Comprehensive internal medicine","Comprehensive internal medicine",58
+"600","Comprehensive internal medicine","Comprehensive internal medicine",68
+"601","Comprehensive internal medicine","Comprehensive internal medicine",69
+"602","Comprehensive internal medicine","Comprehensive internal medicine",69
+"603","Comprehensive internal medicine","Comprehensive internal medicine",70
+"604","Comprehensive internal medicine","Comprehensive internal medicine",70
+"605","Comprehensive internal medicine","Comprehensive internal medicine",63
+"606","Comprehensive internal medicine","Comprehensive internal medicine",85
+"607","Comprehensive internal medicine","Comprehensive internal medicine",85
+"608","Comprehensive internal medicine","Comprehensive internal medicine",79
+"609","Comprehensive internal medicine","Comprehensive internal medicine",88
+"610","Comprehensive internal medicine","Comprehensive internal medicine",75
+"611","Comprehensive internal medicine","Comprehensive internal medicine",74
+"612","Comprehensive internal medicine","Comprehensive internal medicine",96
+"613","Comprehensive internal medicine","Comprehensive internal medicine",72
+"614","Comprehensive internal medicine","Comprehensive internal medicine",63
+"615","Comprehensive internal medicine","Comprehensive internal medicine",64
+"616","Comprehensive internal medicine","Comprehensive internal medicine",60
+"617","Comprehensive internal medicine","Comprehensive internal medicine",62
+"618","Comprehensive internal medicine","Comprehensive internal medicine",72
+"619","Comprehensive internal medicine","Comprehensive internal medicine",66
+"620","Comprehensive internal medicine","Comprehensive internal medicine",81
+"621","Comprehensive internal medicine","Comprehensive internal medicine",71
+"622","Comprehensive internal medicine","Comprehensive internal medicine",54
+"623","Comprehensive internal medicine","Comprehensive internal medicine",50
+"624","Comprehensive internal medicine","Comprehensive internal medicine",67
+"625","Comprehensive internal medicine","Comprehensive internal medicine",78
+"626","Comprehensive internal medicine","Comprehensive internal medicine",105
+"627","Comprehensive internal medicine","Comprehensive internal medicine",83
+"628","Comprehensive internal medicine","Comprehensive internal medicine",125
+"629","Comprehensive internal medicine","Comprehensive internal medicine",127
+"630","Comprehensive internal medicine","Comprehensive internal medicine",108
+"631","Comprehensive internal medicine","Comprehensive internal medicine",132
+"632","Comprehensive internal medicine","Comprehensive internal medicine",146
+"633","Comprehensive internal medicine","Comprehensive internal medicine",105
+"634","Comprehensive internal medicine","Comprehensive internal medicine",75
+"635","Comprehensive internal medicine","Comprehensive internal medicine",68
+"636","Comprehensive internal medicine","Comprehensive internal medicine",55
+"637","Comprehensive internal medicine","Comprehensive internal medicine",50
+"638","Comprehensive internal medicine","Comprehensive internal medicine",35
+"639","Comprehensive internal medicine","Comprehensive internal medicine",17
+"640","Comprehensive internal medicine","Comprehensive internal medicine",8
+"641","Comprehensive internal medicine","Comprehensive internal medicine",12
+"642","Comprehensive internal medicine","Comprehensive internal medicine",5
+"643","Comprehensive internal medicine","Comprehensive internal medicine",4
+"644","Comprehensive internal medicine","Comprehensive internal medicine",1
+"645","Comprehensive Surgery","Comprehensive internal medicine",1
+"646","Comprehensive Surgery","Comprehensive internal medicine",1
+"647","Comprehensive Surgery","Comprehensive internal medicine",1
+"648","Comprehensive Surgery","Comprehensive internal medicine",1
+"649","Comprehensive Surgery","Comprehensive internal medicine",1
+"650","Department of Critical Care Medicine","Comprehensive internal medicine",1
+"651","Gastroenterology","Comprehensive internal medicine",1
+"652","Gastroenterology Surgery","Comprehensive internal medicine",1
+"653","Gastroenterology Surgery","Comprehensive internal medicine",1
+"654","Haematology","Comprehensive internal medicine",1
+"655","Hepatobiliary Surgery","Comprehensive internal medicine",1
+"656","Hepatobiliary Surgery","Comprehensive internal medicine",1
+"657","Hepatobiliary Surgery","Comprehensive internal medicine",1
+"658","Neurology","Comprehensive internal medicine",1
+"659","Neurology","Comprehensive internal medicine",1
+"660","Neurology","Comprehensive internal medicine",1
+"661","Neurology","Comprehensive internal medicine",1
+"662","Neurology","Comprehensive internal medicine",1
+"663","orthopedics","Comprehensive internal medicine",1
+"664","Otolaryngology","Comprehensive internal medicine",1
+"665","Pain Department","Comprehensive internal medicine",1
+"666","Respiratory Medicine","Comprehensive internal medicine",1
+"667","Respiratory Medicine","Comprehensive internal medicine",2
+"668","Thoracic Surgery","Comprehensive internal medicine",1
+"669","Urology","Comprehensive internal medicine",1
+"670","Urology","Comprehensive internal medicine",1
+"671","V4 Surgery Comprehensive Ward","Comprehensive internal medicine",1
+"672","V4 Surgery Comprehensive Ward","Comprehensive internal medicine",1
+"673","Cardiology","Comprehensive Surgery",1
+"674","Cardiology","Comprehensive Surgery",1
+"675","Cardiology","Comprehensive Surgery",1
+"676","Comprehensive internal medicine","Comprehensive Surgery",1
+"677","Comprehensive internal medicine","Comprehensive Surgery",1
+"678","Comprehensive internal medicine","Comprehensive Surgery",1
+"679","Comprehensive internal medicine","Comprehensive Surgery",1
+"680","Comprehensive Surgery","Comprehensive Surgery",1
+"681","Comprehensive Surgery","Comprehensive Surgery",1
+"682","Comprehensive Surgery","Comprehensive Surgery",1
+"683","Comprehensive Surgery","Comprehensive Surgery",1
+"684","Comprehensive Surgery","Comprehensive Surgery",1
+"685","Comprehensive Surgery","Comprehensive Surgery",9
+"686","Comprehensive Surgery","Comprehensive Surgery",1
+"687","Comprehensive Surgery","Comprehensive Surgery",1
+"688","Comprehensive Surgery","Comprehensive Surgery",2
+"689","Comprehensive Surgery","Comprehensive Surgery",1
+"690","Comprehensive Surgery","Comprehensive Surgery",3
+"691","Comprehensive Surgery","Comprehensive Surgery",15
+"692","Comprehensive Surgery","Comprehensive Surgery",4
+"693","Comprehensive Surgery","Comprehensive Surgery",1
+"694","Comprehensive Surgery","Comprehensive Surgery",1
+"695","Comprehensive Surgery","Comprehensive Surgery",3
+"696","Comprehensive Surgery","Comprehensive Surgery",2
+"697","Comprehensive Surgery","Comprehensive Surgery",1
+"698","Comprehensive Surgery","Comprehensive Surgery",5
+"699","Comprehensive Surgery","Comprehensive Surgery",2
+"700","Comprehensive Surgery","Comprehensive Surgery",2
+"701","Comprehensive Surgery","Comprehensive Surgery",6
+"702","Comprehensive Surgery","Comprehensive Surgery",4
+"703","Comprehensive Surgery","Comprehensive Surgery",3
+"704","Comprehensive Surgery","Comprehensive Surgery",2
+"705","Comprehensive Surgery","Comprehensive Surgery",1
+"706","Comprehensive Surgery","Comprehensive Surgery",1
+"707","Comprehensive Surgery","Comprehensive Surgery",4
+"708","Comprehensive Surgery","Comprehensive Surgery",1
+"709","Comprehensive Surgery","Comprehensive Surgery",1
+"710","Comprehensive Surgery","Comprehensive Surgery",1
+"711","Department of Infectious Diseases","Comprehensive Surgery",1
+"712","Department of Infectious Diseases","Comprehensive Surgery",1
+"713","Emergency Surgery","Comprehensive Surgery",1
+"714","Emergency Surgery","Comprehensive Surgery",1
+"715","Gastroenterology","Comprehensive Surgery",1
+"716","Gynecology","Comprehensive Surgery",1
+"717","Gynecology","Comprehensive Surgery",1
+"718","Nephropathy Department","Comprehensive Surgery",1
+"719","Plastic Surgery","Comprehensive Surgery",1
+"720","Dental department","Dental department",1
+"721","Dental department","Dental department",1
+"722","Dental department","Dental department",3
+"723","Dental department","Dental department",1
+"724","Dental department","Dental department",3
+"725","Dental department","Dental department",3
+"726","Dental department","Dental department",4
+"727","Dental department","Dental department",3
+"728","Dental department","Dental department",2
+"729","Dental department","Dental department",4
+"730","Dental department","Dental department",9
+"731","Dental department","Dental department",4
+"732","Dental department","Dental department",5
+"733","Dental department","Dental department",12
+"734","Dental department","Dental department",6
+"735","Dental department","Dental department",6
+"736","Dental department","Dental department",6
+"737","Dental department","Dental department",5
+"738","Dental department","Dental department",7
+"739","Dental department","Dental department",3
+"740","Dental department","Dental department",3
+"741","Dental department","Dental department",4
+"742","Dental department","Dental department",16
+"743","Dental department","Dental department",4
+"744","Dental department","Dental department",8
+"745","Dental department","Dental department",5
+"746","Dental department","Dental department",5
+"747","Dental department","Dental department",5
+"748","Dental department","Dental department",2
+"749","Dental department","Dental department",4
+"750","Dental department","Dental department",11
+"751","Dental department","Dental department",7
+"752","Dental department","Dental department",4
+"753","Dental department","Dental department",2
+"754","Dental department","Dental department",3
+"755","Dental department","Dental department",1
+"756","Dental department","Dental department",1
+"757","Dental department","Dental department",1
+"758","Dental department","Dental department",1
+"759","Dental department","Dental department",1
+"760","Endocrinology Department","Dental department",1
+"761","Cardiac Large Vascular Surgery","Department of Critical Care Medicine",1
+"762","Cardiology","Department of Critical Care Medicine",1
+"763","Cardiology","Department of Critical Care Medicine",1
+"764","Cardiology","Department of Critical Care Medicine",1
+"765","Cardiology","Department of Critical Care Medicine",1
+"766","Cardiology","Department of Critical Care Medicine",1
+"767","Cardiology","Department of Critical Care Medicine",1
+"768","Cardiology","Department of Critical Care Medicine",1
+"769","Cardiology","Department of Critical Care Medicine",1
+"770","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"771","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"772","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"773","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"774","Comprehensive internal medicine","Department of Critical Care Medicine",2
+"775","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"776","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"777","Comprehensive internal medicine","Department of Critical Care Medicine",1
+"778","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"779","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"780","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"781","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"782","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"783","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"784","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"785","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"786","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"787","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"788","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"789","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"790","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"791","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"792","Department of Critical Care Medicine","Department of Critical Care Medicine",4
+"793","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"794","Department of Critical Care Medicine","Department of Critical Care Medicine",3
+"795","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"796","Department of Critical Care Medicine","Department of Critical Care Medicine",3
+"797","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"798","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"799","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"800","Department of Critical Care Medicine","Department of Critical Care Medicine",3
+"801","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"802","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"803","Department of Critical Care Medicine","Department of Critical Care Medicine",5
+"804","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"805","Department of Critical Care Medicine","Department of Critical Care Medicine",4
+"806","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"807","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"808","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"809","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"810","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"811","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"812","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"813","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"814","Department of Critical Care Medicine","Department of Critical Care Medicine",2
+"815","Department of Critical Care Medicine","Department of Critical Care Medicine",1
+"816","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"817","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"818","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"819","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"820","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"821","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"822","Department of Infectious Diseases","Department of Critical Care Medicine",1
+"823","Department of Traditional Chinese Medicine","Department of Critical Care Medicine",1
+"824","Department of Traditional Chinese Medicine","Department of Critical Care Medicine",1
+"825","Emergency Surgery","Department of Critical Care Medicine",1
+"826","Emergency Surgery","Department of Critical Care Medicine",2
+"827","Emergency Surgery","Department of Critical Care Medicine",1
+"828","Emergency Surgery","Department of Critical Care Medicine",1
+"829","Emergency Surgery","Department of Critical Care Medicine",1
+"830","Endocrinology Department","Department of Critical Care Medicine",1
+"831","Gastroenterology","Department of Critical Care Medicine",1
+"832","Gastroenterology","Department of Critical Care Medicine",1
+"833","Gastroenterology","Department of Critical Care Medicine",1
+"834","Gastroenterology","Department of Critical Care Medicine",1
+"835","Gastroenterology Surgery","Department of Critical Care Medicine",1
+"836","Gastroenterology Surgery","Department of Critical Care Medicine",1
+"837","Gastroenterology Surgery II","Department of Critical Care Medicine",1
+"838","Gynecology","Department of Critical Care Medicine",1
+"839","Haematology","Department of Critical Care Medicine",1
+"840","Nephropathy Department","Department of Critical Care Medicine",1
+"841","Nephropathy Department","Department of Critical Care Medicine",1
+"842","Neurology","Department of Critical Care Medicine",1
+"843","Neurology","Department of Critical Care Medicine",1
+"844","orthopedics","Department of Critical Care Medicine",1
+"845","orthopedics","Department of Critical Care Medicine",1
+"846","orthopedics","Department of Critical Care Medicine",1
+"847","orthopedics","Department of Critical Care Medicine",1
+"848","orthopedics","Department of Critical Care Medicine",1
+"849","orthopedics","Department of Critical Care Medicine",1
+"850","Pancreatic Surgery","Department of Critical Care Medicine",1
+"851","Pancreatic Surgery","Department of Critical Care Medicine",1
+"852","Respiratory and Critical Care Medicine","Department of Critical Care Medicine",1
+"853","Respiratory Medicine","Department of Critical Care Medicine",1
+"854","Respiratory Medicine","Department of Critical Care Medicine",1
+"855","Rheumatism and Immunology Department","Department of Critical Care Medicine",1
+"856","Rheumatism and Immunology Department","Department of Critical Care Medicine",1
+"857","Thoracic Surgery","Department of Critical Care Medicine",1
+"858","Urology","Department of Critical Care Medicine",1
+"859","Urology","Department of Critical Care Medicine",1
+"860","Urology","Department of Critical Care Medicine",1
+"861","Urology","Department of Critical Care Medicine",1
+"862","Urology","Department of Critical Care Medicine",1
+"863","Urology","Department of Critical Care Medicine",1
+"864","V4 Surgery Comprehensive Ward","Department of Critical Care Medicine",1
+"865","Vascular Surgery","Department of Critical Care Medicine",1
+"866","Vascular Surgery","Department of Critical Care Medicine",1
+"867","Vascular Surgery","Department of Critical Care Medicine",1
+"868","Cardiac Large Vascular Surgery","Department of Infectious Diseases",1
+"869","Cardiac Large Vascular Surgery","Department of Infectious Diseases",1
+"870","Cardiology","Department of Infectious Diseases",1
+"871","Cardiology","Department of Infectious Diseases",1
+"872","Cardiology","Department of Infectious Diseases",2
+"873","Comprehensive internal medicine","Department of Infectious Diseases",1
+"874","Comprehensive internal medicine","Department of Infectious Diseases",1
+"875","Department of Infectious Diseases","Department of Infectious Diseases",1
+"876","Department of Infectious Diseases","Department of Infectious Diseases",1
+"877","Department of Infectious Diseases","Department of Infectious Diseases",1
+"878","Department of Infectious Diseases","Department of Infectious Diseases",2
+"879","Department of Infectious Diseases","Department of Infectious Diseases",1
+"880","Department of Infectious Diseases","Department of Infectious Diseases",2
+"881","Department of Infectious Diseases","Department of Infectious Diseases",4
+"882","Department of Infectious Diseases","Department of Infectious Diseases",3
+"883","Department of Infectious Diseases","Department of Infectious Diseases",6
+"884","Department of Infectious Diseases","Department of Infectious Diseases",6
+"885","Department of Infectious Diseases","Department of Infectious Diseases",4
+"886","Department of Infectious Diseases","Department of Infectious Diseases",12
+"887","Department of Infectious Diseases","Department of Infectious Diseases",7
+"888","Department of Infectious Diseases","Department of Infectious Diseases",5
+"889","Department of Infectious Diseases","Department of Infectious Diseases",12
+"890","Department of Infectious Diseases","Department of Infectious Diseases",7
+"891","Department of Infectious Diseases","Department of Infectious Diseases",6
+"892","Department of Infectious Diseases","Department of Infectious Diseases",5
+"893","Department of Infectious Diseases","Department of Infectious Diseases",10
+"894","Department of Infectious Diseases","Department of Infectious Diseases",10
+"895","Department of Infectious Diseases","Department of Infectious Diseases",16
+"896","Department of Infectious Diseases","Department of Infectious Diseases",14
+"897","Department of Infectious Diseases","Department of Infectious Diseases",19
+"898","Department of Infectious Diseases","Department of Infectious Diseases",13
+"899","Department of Infectious Diseases","Department of Infectious Diseases",18
+"900","Department of Infectious Diseases","Department of Infectious Diseases",12
+"901","Department of Infectious Diseases","Department of Infectious Diseases",17
+"902","Department of Infectious Diseases","Department of Infectious Diseases",13
+"903","Department of Infectious Diseases","Department of Infectious Diseases",15
+"904","Department of Infectious Diseases","Department of Infectious Diseases",15
+"905","Department of Infectious Diseases","Department of Infectious Diseases",19
+"906","Department of Infectious Diseases","Department of Infectious Diseases",9
+"907","Department of Infectious Diseases","Department of Infectious Diseases",13
+"908","Department of Infectious Diseases","Department of Infectious Diseases",15
+"909","Department of Infectious Diseases","Department of Infectious Diseases",13
+"910","Department of Infectious Diseases","Department of Infectious Diseases",11
+"911","Department of Infectious Diseases","Department of Infectious Diseases",14
+"912","Department of Infectious Diseases","Department of Infectious Diseases",9
+"913","Department of Infectious Diseases","Department of Infectious Diseases",12
+"914","Department of Infectious Diseases","Department of Infectious Diseases",10
+"915","Department of Infectious Diseases","Department of Infectious Diseases",8
+"916","Department of Infectious Diseases","Department of Infectious Diseases",6
+"917","Department of Infectious Diseases","Department of Infectious Diseases",2
+"918","Department of Infectious Diseases","Department of Infectious Diseases",2
+"919","Department of Infectious Diseases","Department of Infectious Diseases",2
+"920","Department of Infectious Diseases","Department of Infectious Diseases",3
+"921","Department of Infectious Diseases","Department of Infectious Diseases",1
+"922","Department of Infectious Diseases","Department of Infectious Diseases",1
+"923","Digestive Oncology Surgery","Department of Infectious Diseases",1
+"924","Emergency Surgery","Department of Infectious Diseases",1
+"925","Emergency Surgery","Department of Infectious Diseases",1
+"926","Emergency Surgery","Department of Infectious Diseases",1
+"927","Endocrinology Department","Department of Infectious Diseases",1
+"928","Gastroenterology Surgery","Department of Infectious Diseases",1
+"929","Hand surgery","Department of Infectious Diseases",1
+"930","Hepatobiliary Surgery","Department of Infectious Diseases",1
+"931","Neurology","Department of Infectious Diseases",1
+"932","Neurosurgery","Department of Infectious Diseases",1
+"933","orthopedics","Department of Infectious Diseases",1
+"934","Respiratory Medicine","Department of Infectious Diseases",1
+"935","Respiratory Medicine","Department of Infectious Diseases",1
+"936","Urology","Department of Infectious Diseases",1
+"937","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"938","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"939","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"940","Department of L6 Lymphoma","Department of L6 Lymphoma",3
+"941","Department of L6 Lymphoma","Department of L6 Lymphoma",3
+"942","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"943","Department of L6 Lymphoma","Department of L6 Lymphoma",7
+"944","Department of L6 Lymphoma","Department of L6 Lymphoma",3
+"945","Department of L6 Lymphoma","Department of L6 Lymphoma",2
+"946","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"947","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"948","Department of L6 Lymphoma","Department of L6 Lymphoma",1
+"949","dermatology","Department of L6 Lymphoma",1
+"950","Department of osteo-soft tissue swelling and chemotherapy","Department of osteo-soft tissue swelling and chemotherapy",1
+"951","Department of osteo-soft tissue swelling and chemotherapy","Department of osteo-soft tissue swelling and chemotherapy",4
+"952","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",2
+"953","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",3
+"954","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",4
+"955","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",2
+"956","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"957","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",2
+"958","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"959","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",7
+"960","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"961","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",4
+"962","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",2
+"963","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"964","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"965","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",8
+"966","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",3
+"967","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"968","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",8
+"969","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"970","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"971","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"972","Department of Rehabilitation Medicine","Department of Rehabilitation Medicine",1
+"973","Neurology","Department of Rehabilitation Medicine",1
+"974","Neurology","Department of Rehabilitation Medicine",1
+"975","orthopedics","Department of Rehabilitation Medicine",1
+"976","Cardiology","Department of Traditional Chinese Medicine",1
+"977","Cardiology","Department of Traditional Chinese Medicine",1
+"978","Cardiology","Department of Traditional Chinese Medicine",1
+"979","Cardiology","Department of Traditional Chinese Medicine",1
+"980","Department of Infectious Diseases","Department of Traditional Chinese Medicine",1
+"981","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",1
+"982","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"983","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",2
+"984","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",1
+"985","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",2
+"986","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",1
+"987","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",1
+"988","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",6
+"989","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",7
+"990","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"991","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"992","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"993","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",7
+"994","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"995","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",6
+"996","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",9
+"997","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",17
+"998","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",15
+"999","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",22
+"1000","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",21
+"1001","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",18
+"1002","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",21
+"1003","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",34
+"1004","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",28
+"1005","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",28
+"1006","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",34
+"1007","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",45
+"1008","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",31
+"1009","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",43
+"1010","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",28
+"1011","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",28
+"1012","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",35
+"1013","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",38
+"1014","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",42
+"1015","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",52
+"1016","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",35
+"1017","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",50
+"1018","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",26
+"1019","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",27
+"1020","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",38
+"1021","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",38
+"1022","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",37
+"1023","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",36
+"1024","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",38
+"1025","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",37
+"1026","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",28
+"1027","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",32
+"1028","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",16
+"1029","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",15
+"1030","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",18
+"1031","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",11
+"1032","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"1033","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",5
+"1034","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",12
+"1035","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",2
+"1036","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",9
+"1037","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",8
+"1038","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",2
+"1039","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",1
+"1040","Department of Traditional Chinese Medicine","Department of Traditional Chinese Medicine",2
+"1041","Gastroenterology","Department of Traditional Chinese Medicine",1
+"1042","Gastroenterology Surgery II","Department of Traditional Chinese Medicine",1
+"1043","Haematology","Department of Traditional Chinese Medicine",1
+"1044","Hand surgery","Department of Traditional Chinese Medicine",1
+"1045","Hepatobiliary Surgery","Department of Traditional Chinese Medicine",1
+"1046","M2 Gynecological Oncology DepartmentⅠ","Department of Traditional Chinese Medicine",1
+"1047","Nephropathy Department","Department of Traditional Chinese Medicine",1
+"1048","orthopedics","Department of Traditional Chinese Medicine",1
+"1049","orthopedics","Department of Traditional Chinese Medicine",1
+"1050","orthopedics","Department of Traditional Chinese Medicine",1
+"1051","Respiratory Medicine","Department of Traditional Chinese Medicine",1
+"1052","Urology","Department of Traditional Chinese Medicine",1
+"1053","Z14 Chest Oncology Department II","Department of Traditional Chinese Medicine",1
+"1054","Z9 Abdominal Oncology Department","Department of Traditional Chinese Medicine",1
+"1055","Z9 Abdominal Oncology Department","Department of Traditional Chinese Medicine",1
+"1056","Cardiac Large Vascular Surgery","dermatology",1
+"1057","Cardiology","dermatology",1
+"1058","Cardiology","dermatology",1
+"1059","Cardiology","dermatology",1
+"1060","Cardiology","dermatology",1
+"1061","Cardiology","dermatology",1
+"1062","Comprehensive internal medicine","dermatology",1
+"1063","dermatology","dermatology",2
+"1064","dermatology","dermatology",1
+"1065","dermatology","dermatology",1
+"1066","dermatology","dermatology",1
+"1067","dermatology","dermatology",5
+"1068","dermatology","dermatology",1
+"1069","dermatology","dermatology",3
+"1070","dermatology","dermatology",4
+"1071","dermatology","dermatology",6
+"1072","dermatology","dermatology",8
+"1073","dermatology","dermatology",3
+"1074","dermatology","dermatology",5
+"1075","dermatology","dermatology",7
+"1076","dermatology","dermatology",4
+"1077","dermatology","dermatology",7
+"1078","dermatology","dermatology",8
+"1079","dermatology","dermatology",14
+"1080","dermatology","dermatology",8
+"1081","dermatology","dermatology",14
+"1082","dermatology","dermatology",12
+"1083","dermatology","dermatology",9
+"1084","dermatology","dermatology",14
+"1085","dermatology","dermatology",7
+"1086","dermatology","dermatology",15
+"1087","dermatology","dermatology",13
+"1088","dermatology","dermatology",13
+"1089","dermatology","dermatology",8
+"1090","dermatology","dermatology",11
+"1091","dermatology","dermatology",13
+"1092","dermatology","dermatology",11
+"1093","dermatology","dermatology",8
+"1094","dermatology","dermatology",8
+"1095","dermatology","dermatology",5
+"1096","dermatology","dermatology",12
+"1097","dermatology","dermatology",9
+"1098","dermatology","dermatology",10
+"1099","dermatology","dermatology",10
+"1100","dermatology","dermatology",8
+"1101","dermatology","dermatology",4
+"1102","dermatology","dermatology",6
+"1103","dermatology","dermatology",6
+"1104","dermatology","dermatology",2
+"1105","dermatology","dermatology",2
+"1106","dermatology","dermatology",2
+"1107","dermatology","dermatology",1
+"1108","dermatology","dermatology",1
+"1109","dermatology","dermatology",1
+"1110","Gastroenterology","dermatology",1
+"1111","Gynecology","dermatology",1
+"1112","Respiratory Medicine","dermatology",1
+"1113","Anorectal Surgery","Digestive Oncology Surgery",1
+"1114","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1115","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1116","Digestive Oncology Surgery","Digestive Oncology Surgery",6
+"1117","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1118","Digestive Oncology Surgery","Digestive Oncology Surgery",2
+"1119","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1120","Digestive Oncology Surgery","Digestive Oncology Surgery",3
+"1121","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1122","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1123","Digestive Oncology Surgery","Digestive Oncology Surgery",1
+"1124","Gastroenterology","Digestive Oncology Surgery",1
+"1125","Gastroenterology","Digestive Oncology Surgery",1
+"1126","Gastroenterology","Digestive Oncology Surgery",1
+"1127","Gastroenterology","Digestive Oncology Surgery",1
+"1128","Gastroenterology Surgery","Digestive Oncology Surgery",1
+"1129","Vascular Surgery","Digestive Oncology Surgery",1
+"1130","Z10 Abdominal Oncology Department II","Digestive Oncology Surgery",1
+"1131","Z9 Abdominal Oncology Department","Digestive Oncology Surgery",1
+"1132","Emergency Internal Medicine","Emergency Internal Medicine",1
+"1133","Emergency Surgery","Emergency Surgery",1
+"1134","Emergency Surgery","Emergency Surgery",1
+"1135","Emergency Surgery","Emergency Surgery",1
+"1136","Emergency Surgery","Emergency Surgery",1
+"1137","Emergency Surgery","Emergency Surgery",1
+"1138","Emergency Surgery","Emergency Surgery",1
+"1139","Emergency Surgery","Emergency Surgery",2
+"1140","Emergency Surgery","Emergency Surgery",4
+"1141","Emergency Surgery","Emergency Surgery",2
+"1142","Emergency Surgery","Emergency Surgery",1
+"1143","Emergency Surgery","Emergency Surgery",2
+"1144","Emergency Surgery","Emergency Surgery",4
+"1145","Emergency Surgery","Emergency Surgery",4
+"1146","Emergency Surgery","Emergency Surgery",4
+"1147","Emergency Surgery","Emergency Surgery",6
+"1148","Emergency Surgery","Emergency Surgery",5
+"1149","Emergency Surgery","Emergency Surgery",4
+"1150","Emergency Surgery","Emergency Surgery",7
+"1151","Emergency Surgery","Emergency Surgery",8
+"1152","Emergency Surgery","Emergency Surgery",7
+"1153","Emergency Surgery","Emergency Surgery",12
+"1154","Emergency Surgery","Emergency Surgery",11
+"1155","Emergency Surgery","Emergency Surgery",10
+"1156","Emergency Surgery","Emergency Surgery",14
+"1157","Emergency Surgery","Emergency Surgery",19
+"1158","Emergency Surgery","Emergency Surgery",16
+"1159","Emergency Surgery","Emergency Surgery",13
+"1160","Emergency Surgery","Emergency Surgery",12
+"1161","Emergency Surgery","Emergency Surgery",8
+"1162","Emergency Surgery","Emergency Surgery",13
+"1163","Emergency Surgery","Emergency Surgery",7
+"1164","Emergency Surgery","Emergency Surgery",9
+"1165","Emergency Surgery","Emergency Surgery",13
+"1166","Emergency Surgery","Emergency Surgery",12
+"1167","Emergency Surgery","Emergency Surgery",9
+"1168","Emergency Surgery","Emergency Surgery",9
+"1169","Emergency Surgery","Emergency Surgery",16
+"1170","Emergency Surgery","Emergency Surgery",13
+"1171","Emergency Surgery","Emergency Surgery",7
+"1172","Emergency Surgery","Emergency Surgery",6
+"1173","Emergency Surgery","Emergency Surgery",6
+"1174","Emergency Surgery","Emergency Surgery",6
+"1175","Emergency Surgery","Emergency Surgery",3
+"1176","Emergency Surgery","Emergency Surgery",1
+"1177","Emergency Surgery","Emergency Surgery",3
+"1178","Emergency Surgery","Emergency Surgery",1
+"1179","Emergency Surgery","Emergency Surgery",1
+"1180","Emergency Surgery","Emergency Surgery",1
+"1181","Pancreatic Surgery","Emergency Surgery",1
+"1182","Emergency Ward","Emergency Ward",1
+"1183","Cardiology","Endocrinology Department",1
+"1184","Cardiology","Endocrinology Department",1
+"1185","Cardiology","Endocrinology Department",1
+"1186","Cardiology","Endocrinology Department",1
+"1187","Cardiology","Endocrinology Department",1
+"1188","Cardiology","Endocrinology Department",1
+"1189","Cardiology","Endocrinology Department",1
+"1190","Cardiology","Endocrinology Department",1
+"1191","Cardiology","Endocrinology Department",1
+"1192","Comprehensive internal medicine","Endocrinology Department",1
+"1193","Endocrinology Department","Endocrinology Department",1
+"1194","Endocrinology Department","Endocrinology Department",1
+"1195","Endocrinology Department","Endocrinology Department",3
+"1196","Endocrinology Department","Endocrinology Department",1
+"1197","Endocrinology Department","Endocrinology Department",1
+"1198","Endocrinology Department","Endocrinology Department",5
+"1199","Endocrinology Department","Endocrinology Department",4
+"1200","Endocrinology Department","Endocrinology Department",7
+"1201","Endocrinology Department","Endocrinology Department",9
+"1202","Endocrinology Department","Endocrinology Department",3
+"1203","Endocrinology Department","Endocrinology Department",10
+"1204","Endocrinology Department","Endocrinology Department",7
+"1205","Endocrinology Department","Endocrinology Department",8
+"1206","Endocrinology Department","Endocrinology Department",13
+"1207","Endocrinology Department","Endocrinology Department",13
+"1208","Endocrinology Department","Endocrinology Department",16
+"1209","Endocrinology Department","Endocrinology Department",21
+"1210","Endocrinology Department","Endocrinology Department",31
+"1211","Endocrinology Department","Endocrinology Department",32
+"1212","Endocrinology Department","Endocrinology Department",33
+"1213","Endocrinology Department","Endocrinology Department",32
+"1214","Endocrinology Department","Endocrinology Department",44
+"1215","Endocrinology Department","Endocrinology Department",46
+"1216","Endocrinology Department","Endocrinology Department",53
+"1217","Endocrinology Department","Endocrinology Department",29
+"1218","Endocrinology Department","Endocrinology Department",50
+"1219","Endocrinology Department","Endocrinology Department",44
+"1220","Endocrinology Department","Endocrinology Department",56
+"1221","Endocrinology Department","Endocrinology Department",43
+"1222","Endocrinology Department","Endocrinology Department",43
+"1223","Endocrinology Department","Endocrinology Department",47
+"1224","Endocrinology Department","Endocrinology Department",59
+"1225","Endocrinology Department","Endocrinology Department",32
+"1226","Endocrinology Department","Endocrinology Department",44
+"1227","Endocrinology Department","Endocrinology Department",43
+"1228","Endocrinology Department","Endocrinology Department",55
+"1229","Endocrinology Department","Endocrinology Department",46
+"1230","Endocrinology Department","Endocrinology Department",39
+"1231","Endocrinology Department","Endocrinology Department",32
+"1232","Endocrinology Department","Endocrinology Department",25
+"1233","Endocrinology Department","Endocrinology Department",36
+"1234","Endocrinology Department","Endocrinology Department",20
+"1235","Endocrinology Department","Endocrinology Department",28
+"1236","Endocrinology Department","Endocrinology Department",24
+"1237","Endocrinology Department","Endocrinology Department",13
+"1238","Endocrinology Department","Endocrinology Department",14
+"1239","Endocrinology Department","Endocrinology Department",11
+"1240","Endocrinology Department","Endocrinology Department",13
+"1241","Endocrinology Department","Endocrinology Department",16
+"1242","Endocrinology Department","Endocrinology Department",10
+"1243","Endocrinology Department","Endocrinology Department",4
+"1244","Endocrinology Department","Endocrinology Department",7
+"1245","Endocrinology Department","Endocrinology Department",2
+"1246","Endocrinology Department","Endocrinology Department",4
+"1247","Endocrinology Department","Endocrinology Department",3
+"1248","Gastroenterology","Endocrinology Department",1
+"1249","Gastroenterology","Endocrinology Department",1
+"1250","Gastroenterology","Endocrinology Department",1
+"1251","Gastroenterology","Endocrinology Department",1
+"1252","Gastroenterology","Endocrinology Department",1
+"1253","Gastroenterology","Endocrinology Department",1
+"1254","Nephropathy Department","Endocrinology Department",1
+"1255","Nephropathy Department","Endocrinology Department",1
+"1256","Nephropathy Department","Endocrinology Department",1
+"1257","Neurology","Endocrinology Department",1
+"1258","Neurosurgery","Endocrinology Department",1
+"1259","Anorectal Surgery","Gastroenterology",1
+"1260","Cardiology","Gastroenterology",1
+"1261","Cardiology","Gastroenterology",1
+"1262","Cardiology","Gastroenterology",2
+"1263","Cardiology","Gastroenterology",1
+"1264","Cardiology","Gastroenterology",1
+"1265","Cardiology","Gastroenterology",1
+"1266","Cardiology","Gastroenterology",2
+"1267","Comprehensive internal medicine","Gastroenterology",1
+"1268","Comprehensive internal medicine","Gastroenterology",1
+"1269","Comprehensive internal medicine","Gastroenterology",1
+"1270","Comprehensive Surgery","Gastroenterology",1
+"1271","Department of Traditional Chinese Medicine","Gastroenterology",1
+"1272","Department of Traditional Chinese Medicine","Gastroenterology",1
+"1273","Digestive Oncology Surgery","Gastroenterology",1
+"1274","Digestive Oncology Surgery","Gastroenterology",1
+"1275","Digestive Oncology Surgery","Gastroenterology",1
+"1276","Emergency Surgery","Gastroenterology",1
+"1277","Emergency Surgery","Gastroenterology",1
+"1278","Emergency Surgery","Gastroenterology",1
+"1279","Emergency Ward","Gastroenterology",1
+"1280","Emergency Ward","Gastroenterology",1
+"1281","Gastroenterology","Gastroenterology",1
+"1282","Gastroenterology","Gastroenterology",2
+"1283","Gastroenterology","Gastroenterology",1
+"1284","Gastroenterology","Gastroenterology",2
+"1285","Gastroenterology","Gastroenterology",1
+"1286","Gastroenterology","Gastroenterology",6
+"1287","Gastroenterology","Gastroenterology",2
+"1288","Gastroenterology","Gastroenterology",2
+"1289","Gastroenterology","Gastroenterology",2
+"1290","Gastroenterology","Gastroenterology",2
+"1291","Gastroenterology","Gastroenterology",5
+"1292","Gastroenterology","Gastroenterology",3
+"1293","Gastroenterology","Gastroenterology",7
+"1294","Gastroenterology","Gastroenterology",14
+"1295","Gastroenterology","Gastroenterology",9
+"1296","Gastroenterology","Gastroenterology",10
+"1297","Gastroenterology","Gastroenterology",24
+"1298","Gastroenterology","Gastroenterology",20
+"1299","Gastroenterology","Gastroenterology",22
+"1300","Gastroenterology","Gastroenterology",30
+"1301","Gastroenterology","Gastroenterology",18
+"1302","Gastroenterology","Gastroenterology",25
+"1303","Gastroenterology","Gastroenterology",26
+"1304","Gastroenterology","Gastroenterology",29
+"1305","Gastroenterology","Gastroenterology",19
+"1306","Gastroenterology","Gastroenterology",29
+"1307","Gastroenterology","Gastroenterology",40
+"1308","Gastroenterology","Gastroenterology",39
+"1309","Gastroenterology","Gastroenterology",43
+"1310","Gastroenterology","Gastroenterology",52
+"1311","Gastroenterology","Gastroenterology",51
+"1312","Gastroenterology","Gastroenterology",44
+"1313","Gastroenterology","Gastroenterology",39
+"1314","Gastroenterology","Gastroenterology",36
+"1315","Gastroenterology","Gastroenterology",31
+"1316","Gastroenterology","Gastroenterology",41
+"1317","Gastroenterology","Gastroenterology",39
+"1318","Gastroenterology","Gastroenterology",42
+"1319","Gastroenterology","Gastroenterology",35
+"1320","Gastroenterology","Gastroenterology",43
+"1321","Gastroenterology","Gastroenterology",38
+"1322","Gastroenterology","Gastroenterology",44
+"1323","Gastroenterology","Gastroenterology",45
+"1324","Gastroenterology","Gastroenterology",31
+"1325","Gastroenterology","Gastroenterology",27
+"1326","Gastroenterology","Gastroenterology",19
+"1327","Gastroenterology","Gastroenterology",19
+"1328","Gastroenterology","Gastroenterology",22
+"1329","Gastroenterology","Gastroenterology",19
+"1330","Gastroenterology","Gastroenterology",18
+"1331","Gastroenterology","Gastroenterology",10
+"1332","Gastroenterology","Gastroenterology",10
+"1333","Gastroenterology","Gastroenterology",10
+"1334","Gastroenterology","Gastroenterology",6
+"1335","Gastroenterology","Gastroenterology",5
+"1336","Gastroenterology","Gastroenterology",2
+"1337","Gastroenterology","Gastroenterology",1
+"1338","Gastroenterology Surgery","Gastroenterology",1
+"1339","Gastroenterology Surgery","Gastroenterology",1
+"1340","Gastroenterology Surgery","Gastroenterology",1
+"1341","Gastroenterology Surgery","Gastroenterology",1
+"1342","Gastroenterology Surgery II","Gastroenterology",1
+"1343","Interventional Radiology","Gastroenterology",1
+"1344","Neurology","Gastroenterology",1
+"1345","Otolaryngology","Gastroenterology",1
+"1346","Pancreatic Surgery","Gastroenterology",1
+"1347","Urology","Gastroenterology",1
+"1348","V4 Surgery Comprehensive Ward","Gastroenterology",1
+"1349","Vascular Surgery","Gastroenterology",1
+"1350","Cardiology","Gastroenterology Surgery",1
+"1351","Cardiology","Gastroenterology Surgery",1
+"1352","Cardiology","Gastroenterology Surgery",1
+"1353","Cardiology","Gastroenterology Surgery",1
+"1354","Cardiology","Gastroenterology Surgery",1
+"1355","Cardiology","Gastroenterology Surgery",1
+"1356","Cardiology","Gastroenterology Surgery",1
+"1357","Cardiology","Gastroenterology Surgery",1
+"1358","Comprehensive internal medicine","Gastroenterology Surgery",1
+"1359","Comprehensive internal medicine","Gastroenterology Surgery",1
+"1360","Comprehensive internal medicine","Gastroenterology Surgery",1
+"1361","Comprehensive internal medicine","Gastroenterology Surgery",1
+"1362","Comprehensive internal medicine","Gastroenterology Surgery",1
+"1363","Department of Infectious Diseases","Gastroenterology Surgery",1
+"1364","Department of Infectious Diseases","Gastroenterology Surgery",1
+"1365","Department of Infectious Diseases","Gastroenterology Surgery",1
+"1366","Department of Infectious Diseases","Gastroenterology Surgery",3
+"1367","Department of Traditional Chinese Medicine","Gastroenterology Surgery",1
+"1368","Department of Traditional Chinese Medicine","Gastroenterology Surgery",1
+"1369","Department of Traditional Chinese Medicine","Gastroenterology Surgery",1
+"1370","Emergency Surgery","Gastroenterology Surgery",1
+"1371","Emergency Surgery","Gastroenterology Surgery",2
+"1372","Emergency Surgery","Gastroenterology Surgery",1
+"1373","Emergency Surgery","Gastroenterology Surgery",1
+"1374","Endocrinology Department","Gastroenterology Surgery",1
+"1375","Gastroenterology","Gastroenterology Surgery",1
+"1376","Gastroenterology","Gastroenterology Surgery",1
+"1377","Gastroenterology","Gastroenterology Surgery",1
+"1378","Gastroenterology","Gastroenterology Surgery",2
+"1379","Gastroenterology","Gastroenterology Surgery",2
+"1380","Gastroenterology","Gastroenterology Surgery",2
+"1381","Gastroenterology","Gastroenterology Surgery",1
+"1382","Gastroenterology","Gastroenterology Surgery",2
+"1383","Gastroenterology","Gastroenterology Surgery",1
+"1384","Gastroenterology","Gastroenterology Surgery",1
+"1385","Gastroenterology","Gastroenterology Surgery",1
+"1386","Gastroenterology","Gastroenterology Surgery",3
+"1387","Gastroenterology","Gastroenterology Surgery",1
+"1388","Gastroenterology","Gastroenterology Surgery",2
+"1389","Gastroenterology","Gastroenterology Surgery",2
+"1390","Gastroenterology","Gastroenterology Surgery",1
+"1391","Gastroenterology","Gastroenterology Surgery",1
+"1392","Gastroenterology","Gastroenterology Surgery",2
+"1393","Gastroenterology","Gastroenterology Surgery",1
+"1394","Gastroenterology","Gastroenterology Surgery",1
+"1395","Gastroenterology","Gastroenterology Surgery",1
+"1396","Gastroenterology","Gastroenterology Surgery",2
+"1397","Gastroenterology Surgery","Gastroenterology Surgery",1
+"1398","Gastroenterology Surgery","Gastroenterology Surgery",3
+"1399","Gastroenterology Surgery","Gastroenterology Surgery",3
+"1400","Gastroenterology Surgery","Gastroenterology Surgery",5
+"1401","Gastroenterology Surgery","Gastroenterology Surgery",10
+"1402","Gastroenterology Surgery","Gastroenterology Surgery",4
+"1403","Gastroenterology Surgery","Gastroenterology Surgery",7
+"1404","Gastroenterology Surgery","Gastroenterology Surgery",3
+"1405","Gastroenterology Surgery","Gastroenterology Surgery",2
+"1406","Gastroenterology Surgery","Gastroenterology Surgery",1
+"1407","Gastroenterology Surgery","Gastroenterology Surgery",10
+"1408","Gastroenterology Surgery","Gastroenterology Surgery",5
+"1409","Gastroenterology Surgery","Gastroenterology Surgery",7
+"1410","Gastroenterology Surgery","Gastroenterology Surgery",18
+"1411","Gastroenterology Surgery","Gastroenterology Surgery",12
+"1412","Gastroenterology Surgery","Gastroenterology Surgery",31
+"1413","Gastroenterology Surgery","Gastroenterology Surgery",22
+"1414","Gastroenterology Surgery","Gastroenterology Surgery",9
+"1415","Gastroenterology Surgery","Gastroenterology Surgery",14
+"1416","Gastroenterology Surgery","Gastroenterology Surgery",10
+"1417","Gastroenterology Surgery","Gastroenterology Surgery",18
+"1418","Gastroenterology Surgery","Gastroenterology Surgery",19
+"1419","Gastroenterology Surgery","Gastroenterology Surgery",18
+"1420","Gastroenterology Surgery","Gastroenterology Surgery",20
+"1421","Gastroenterology Surgery","Gastroenterology Surgery",15
+"1422","Gastroenterology Surgery","Gastroenterology Surgery",6
+"1423","Gastroenterology Surgery","Gastroenterology Surgery",8
+"1424","Gastroenterology Surgery","Gastroenterology Surgery",12
+"1425","Gastroenterology Surgery","Gastroenterology Surgery",12
+"1426","Gastroenterology Surgery","Gastroenterology Surgery",13
+"1427","Gastroenterology Surgery","Gastroenterology Surgery",8
+"1428","Gastroenterology Surgery","Gastroenterology Surgery",5
+"1429","Gastroenterology Surgery","Gastroenterology Surgery",6
+"1430","Gastroenterology Surgery","Gastroenterology Surgery",4
+"1431","Gastroenterology Surgery","Gastroenterology Surgery",3
+"1432","Gastroenterology Surgery","Gastroenterology Surgery",4
+"1433","Gastroenterology Surgery","Gastroenterology Surgery",2
+"1434","Gastroenterology Surgery","Gastroenterology Surgery",1
+"1435","Gynecology","Gastroenterology Surgery",1
+"1436","Haematology","Gastroenterology Surgery",1
+"1437","Hepatobiliary Surgery","Gastroenterology Surgery",1
+"1438","IV East Gastroenterology Surgery Anorectal Disease","Gastroenterology Surgery",1
+"1439","Urology","Gastroenterology Surgery",1
+"1440","Urology","Gastroenterology Surgery",1
+"1441","Urology","Gastroenterology Surgery",1
+"1442","Vascular Surgery","Gastroenterology Surgery",1
+"1443","Z10 Abdominal Oncology Department II","Gastroenterology Surgery",1
+"1444","Z11 Digestive Oncology Department I","Gastroenterology Surgery",1
+"1445","Z11 Digestive Oncology Department I","Gastroenterology Surgery",1
+"1446","Cardiac Large Vascular Surgery","Gastroenterology Surgery II",1
+"1447","Cardiology","Gastroenterology Surgery II",1
+"1448","Cardiology","Gastroenterology Surgery II",1
+"1449","Cardiology","Gastroenterology Surgery II",1
+"1450","Cardiology","Gastroenterology Surgery II",1
+"1451","Cardiology","Gastroenterology Surgery II",1
+"1452","Comprehensive internal medicine","Gastroenterology Surgery II",1
+"1453","Comprehensive internal medicine","Gastroenterology Surgery II",1
+"1454","Comprehensive internal medicine","Gastroenterology Surgery II",1
+"1455","Comprehensive internal medicine","Gastroenterology Surgery II",1
+"1456","Comprehensive Surgery","Gastroenterology Surgery II",1
+"1457","Department of Infectious Diseases","Gastroenterology Surgery II",1
+"1458","Department of Infectious Diseases","Gastroenterology Surgery II",1
+"1459","Department of Infectious Diseases","Gastroenterology Surgery II",1
+"1460","Department of Traditional Chinese Medicine","Gastroenterology Surgery II",1
+"1461","Department of Traditional Chinese Medicine","Gastroenterology Surgery II",1
+"1462","Emergency Surgery","Gastroenterology Surgery II",1
+"1463","Emergency Surgery","Gastroenterology Surgery II",1
+"1464","Endocrinology Department","Gastroenterology Surgery II",1
+"1465","Gastroenterology","Gastroenterology Surgery II",1
+"1466","Gastroenterology","Gastroenterology Surgery II",1
+"1467","Gastroenterology","Gastroenterology Surgery II",1
+"1468","Gastroenterology","Gastroenterology Surgery II",1
+"1469","Gastroenterology Surgery","Gastroenterology Surgery II",1
+"1470","Gastroenterology Surgery","Gastroenterology Surgery II",1
+"1471","Gastroenterology Surgery","Gastroenterology Surgery II",1
+"1472","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1473","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1474","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1475","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1476","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1477","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1478","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1479","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1480","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1481","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1482","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1483","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1484","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1485","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1486","Gastroenterology Surgery II","Gastroenterology Surgery II",4
+"1487","Gastroenterology Surgery II","Gastroenterology Surgery II",6
+"1488","Gastroenterology Surgery II","Gastroenterology Surgery II",13
+"1489","Gastroenterology Surgery II","Gastroenterology Surgery II",7
+"1490","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1491","Gastroenterology Surgery II","Gastroenterology Surgery II",14
+"1492","Gastroenterology Surgery II","Gastroenterology Surgery II",21
+"1493","Gastroenterology Surgery II","Gastroenterology Surgery II",12
+"1494","Gastroenterology Surgery II","Gastroenterology Surgery II",7
+"1495","Gastroenterology Surgery II","Gastroenterology Surgery II",7
+"1496","Gastroenterology Surgery II","Gastroenterology Surgery II",12
+"1497","Gastroenterology Surgery II","Gastroenterology Surgery II",6
+"1498","Gastroenterology Surgery II","Gastroenterology Surgery II",9
+"1499","Gastroenterology Surgery II","Gastroenterology Surgery II",17
+"1500","Gastroenterology Surgery II","Gastroenterology Surgery II",8
+"1501","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1502","Gastroenterology Surgery II","Gastroenterology Surgery II",4
+"1503","Gastroenterology Surgery II","Gastroenterology Surgery II",5
+"1504","Gastroenterology Surgery II","Gastroenterology Surgery II",5
+"1505","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1506","Gastroenterology Surgery II","Gastroenterology Surgery II",15
+"1507","Gastroenterology Surgery II","Gastroenterology Surgery II",9
+"1508","Gastroenterology Surgery II","Gastroenterology Surgery II",5
+"1509","Gastroenterology Surgery II","Gastroenterology Surgery II",4
+"1510","Gastroenterology Surgery II","Gastroenterology Surgery II",6
+"1511","Gastroenterology Surgery II","Gastroenterology Surgery II",3
+"1512","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1513","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1514","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1515","Gastroenterology Surgery II","Gastroenterology Surgery II",2
+"1516","Gastroenterology Surgery II","Gastroenterology Surgery II",1
+"1517","Haematology","Gastroenterology Surgery II",1
+"1518","Rheumatism and Immunology Department","Gastroenterology Surgery II",1
+"1519","Z11 Digestive Oncology Department I","Gastroenterology Surgery II",1
+"1520","Cardiology","Gynecology",1
+"1521","Cardiology","Gynecology",1
+"1522","Department of Infectious Diseases","Gynecology",1
+"1523","Endocrinology Department","Gynecology",1
+"1524","Gynecology","Gynecology",1
+"1525","Gynecology","Gynecology",2
+"1526","Gynecology","Gynecology",4
+"1527","Gynecology","Gynecology",2
+"1528","Gynecology","Gynecology",3
+"1529","Gynecology","Gynecology",7
+"1530","Gynecology","Gynecology",3
+"1531","Gynecology","Gynecology",11
+"1532","Gynecology","Gynecology",8
+"1533","Gynecology","Gynecology",5
+"1534","Gynecology","Gynecology",6
+"1535","Gynecology","Gynecology",4
+"1536","Gynecology","Gynecology",8
+"1537","Gynecology","Gynecology",8
+"1538","Gynecology","Gynecology",3
+"1539","Gynecology","Gynecology",6
+"1540","Gynecology","Gynecology",9
+"1541","Gynecology","Gynecology",12
+"1542","Gynecology","Gynecology",6
+"1543","Gynecology","Gynecology",8
+"1544","Gynecology","Gynecology",16
+"1545","Gynecology","Gynecology",9
+"1546","Gynecology","Gynecology",3
+"1547","Gynecology","Gynecology",12
+"1548","Gynecology","Gynecology",8
+"1549","Gynecology","Gynecology",7
+"1550","Gynecology","Gynecology",4
+"1551","Gynecology","Gynecology",13
+"1552","Gynecology","Gynecology",6
+"1553","Gynecology","Gynecology",7
+"1554","Gynecology","Gynecology",11
+"1555","Gynecology","Gynecology",3
+"1556","Gynecology","Gynecology",5
+"1557","Gynecology","Gynecology",2
+"1558","Gynecology","Gynecology",5
+"1559","Gynecology","Gynecology",2
+"1560","Gynecology","Gynecology",2
+"1561","Gynecology","Gynecology",1
+"1562","Gynecology","Gynecology",2
+"1563","Gynecology","Gynecology",1
+"1564","Pancreatic Surgery","Gynecology",1
+"1565","Cardiology","Haematology",1
+"1566","Comprehensive internal medicine","Haematology",1
+"1567","Department of Traditional Chinese Medicine","Haematology",1
+"1568","Department of Traditional Chinese Medicine","Haematology",1
+"1569","Emergency Surgery","Haematology",1
+"1570","Gastroenterology","Haematology",1
+"1571","Gastroenterology","Haematology",1
+"1572","Gastroenterology Surgery","Haematology",1
+"1573","Haematology","Haematology",1
+"1574","Haematology","Haematology",2
+"1575","Haematology","Haematology",1
+"1576","Haematology","Haematology",5
+"1577","Haematology","Haematology",3
+"1578","Haematology","Haematology",12
+"1579","Haematology","Haematology",12
+"1580","Haematology","Haematology",10
+"1581","Haematology","Haematology",12
+"1582","Haematology","Haematology",23
+"1583","Haematology","Haematology",11
+"1584","Haematology","Haematology",5
+"1585","Haematology","Haematology",2
+"1586","Haematology","Haematology",10
+"1587","Haematology","Haematology",15
+"1588","Haematology","Haematology",13
+"1589","Haematology","Haematology",13
+"1590","Haematology","Haematology",24
+"1591","Haematology","Haematology",18
+"1592","Haematology","Haematology",15
+"1593","Haematology","Haematology",33
+"1594","Haematology","Haematology",18
+"1595","Haematology","Haematology",33
+"1596","Haematology","Haematology",26
+"1597","Haematology","Haematology",31
+"1598","Haematology","Haematology",27
+"1599","Haematology","Haematology",16
+"1600","Haematology","Haematology",17
+"1601","Haematology","Haematology",14
+"1602","Haematology","Haematology",3
+"1603","Haematology","Haematology",10
+"1604","Haematology","Haematology",9
+"1605","Haematology","Haematology",12
+"1606","Haematology","Haematology",24
+"1607","Haematology","Haematology",11
+"1608","Haematology","Haematology",7
+"1609","Haematology","Haematology",2
+"1610","Haematology","Haematology",5
+"1611","Haematology","Haematology",2
+"1612","Haematology","Haematology",3
+"1613","Haematology","Haematology",1
+"1614","Haematology","Haematology",8
+"1615","Haematology","Haematology",7
+"1616","Haematology","Haematology",2
+"1617","Haematology","Haematology",2
+"1618","Nephropathy Department","Haematology",1
+"1619","Cardiology","Hand surgery",1
+"1620","Cardiology","Hand surgery",1
+"1621","Endocrinology Department","Hand surgery",1
+"1622","Endocrinology Department","Hand surgery",1
+"1623","Endocrinology Department","Hand surgery",1
+"1624","Endocrinology Department","Hand surgery",1
+"1625","Endocrinology Department","Hand surgery",1
+"1626","Endocrinology Department","Hand surgery",1
+"1627","Hand surgery","Hand surgery",1
+"1628","Hand surgery","Hand surgery",1
+"1629","Hand surgery","Hand surgery",1
+"1630","Hand surgery","Hand surgery",2
+"1631","Hand surgery","Hand surgery",1
+"1632","Hand surgery","Hand surgery",4
+"1633","Hand surgery","Hand surgery",2
+"1634","Hand surgery","Hand surgery",1
+"1635","Hand surgery","Hand surgery",1
+"1636","Hand surgery","Hand surgery",1
+"1637","Hand surgery","Hand surgery",4
+"1638","Hand surgery","Hand surgery",3
+"1639","Hand surgery","Hand surgery",2
+"1640","Hand surgery","Hand surgery",3
+"1641","Hand surgery","Hand surgery",1
+"1642","Hand surgery","Hand surgery",4
+"1643","Hand surgery","Hand surgery",1
+"1644","Hand surgery","Hand surgery",2
+"1645","Hand surgery","Hand surgery",3
+"1646","Hand surgery","Hand surgery",3
+"1647","Hand surgery","Hand surgery",3
+"1648","Hand surgery","Hand surgery",1
+"1649","Hand surgery","Hand surgery",2
+"1650","Hand surgery","Hand surgery",1
+"1651","Hand surgery","Hand surgery",2
+"1652","Hand surgery","Hand surgery",1
+"1653","Hand surgery","Hand surgery",1
+"1654","Nephropathy Department","Hand surgery",1
+"1655","Nephropathy Department","Hand surgery",1
+"1656","Neurology","Hand surgery",1
+"1657","Cardiology","Hepatobiliary Surgery",1
+"1658","Cardiology","Hepatobiliary Surgery",1
+"1659","Cardiology","Hepatobiliary Surgery",1
+"1660","Cardiology","Hepatobiliary Surgery",1
+"1661","Cardiology","Hepatobiliary Surgery",2
+"1662","Cardiology","Hepatobiliary Surgery",1
+"1663","Cardiology","Hepatobiliary Surgery",1
+"1664","Cardiology","Hepatobiliary Surgery",1
+"1665","Cardiology","Hepatobiliary Surgery",1
+"1666","Cardiology","Hepatobiliary Surgery",1
+"1667","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1668","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1669","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1670","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1671","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1672","Department of Infectious Diseases","Hepatobiliary Surgery",1
+"1673","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1674","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1675","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1676","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",2
+"1677","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1678","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1679","Department of Traditional Chinese Medicine","Hepatobiliary Surgery",1
+"1680","Digestive Oncology Surgery","Hepatobiliary Surgery",1
+"1681","Emergency Surgery","Hepatobiliary Surgery",1
+"1682","Emergency Surgery","Hepatobiliary Surgery",1
+"1683","Emergency Surgery","Hepatobiliary Surgery",1
+"1684","Emergency Surgery","Hepatobiliary Surgery",2
+"1685","Emergency Surgery","Hepatobiliary Surgery",1
+"1686","Gastroenterology","Hepatobiliary Surgery",1
+"1687","Gastroenterology","Hepatobiliary Surgery",1
+"1688","Gastroenterology","Hepatobiliary Surgery",1
+"1689","Gastroenterology","Hepatobiliary Surgery",1
+"1690","Gastroenterology","Hepatobiliary Surgery",1
+"1691","Gastroenterology","Hepatobiliary Surgery",2
+"1692","Gastroenterology","Hepatobiliary Surgery",1
+"1693","Gastroenterology Surgery II","Hepatobiliary Surgery",1
+"1694","Gastroenterology Surgery II","Hepatobiliary Surgery",1
+"1695","Gynecology","Hepatobiliary Surgery",1
+"1696","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1697","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1698","Hepatobiliary Surgery","Hepatobiliary Surgery",2
+"1699","Hepatobiliary Surgery","Hepatobiliary Surgery",2
+"1700","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1701","Hepatobiliary Surgery","Hepatobiliary Surgery",3
+"1702","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1703","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1704","Hepatobiliary Surgery","Hepatobiliary Surgery",3
+"1705","Hepatobiliary Surgery","Hepatobiliary Surgery",8
+"1706","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1707","Hepatobiliary Surgery","Hepatobiliary Surgery",3
+"1708","Hepatobiliary Surgery","Hepatobiliary Surgery",9
+"1709","Hepatobiliary Surgery","Hepatobiliary Surgery",10
+"1710","Hepatobiliary Surgery","Hepatobiliary Surgery",20
+"1711","Hepatobiliary Surgery","Hepatobiliary Surgery",13
+"1712","Hepatobiliary Surgery","Hepatobiliary Surgery",12
+"1713","Hepatobiliary Surgery","Hepatobiliary Surgery",13
+"1714","Hepatobiliary Surgery","Hepatobiliary Surgery",16
+"1715","Hepatobiliary Surgery","Hepatobiliary Surgery",19
+"1716","Hepatobiliary Surgery","Hepatobiliary Surgery",17
+"1717","Hepatobiliary Surgery","Hepatobiliary Surgery",19
+"1718","Hepatobiliary Surgery","Hepatobiliary Surgery",15
+"1719","Hepatobiliary Surgery","Hepatobiliary Surgery",17
+"1720","Hepatobiliary Surgery","Hepatobiliary Surgery",15
+"1721","Hepatobiliary Surgery","Hepatobiliary Surgery",15
+"1722","Hepatobiliary Surgery","Hepatobiliary Surgery",19
+"1723","Hepatobiliary Surgery","Hepatobiliary Surgery",8
+"1724","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1725","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1726","Hepatobiliary Surgery","Hepatobiliary Surgery",9
+"1727","Hepatobiliary Surgery","Hepatobiliary Surgery",11
+"1728","Hepatobiliary Surgery","Hepatobiliary Surgery",13
+"1729","Hepatobiliary Surgery","Hepatobiliary Surgery",10
+"1730","Hepatobiliary Surgery","Hepatobiliary Surgery",4
+"1731","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1732","Hepatobiliary Surgery","Hepatobiliary Surgery",5
+"1733","Hepatobiliary Surgery","Hepatobiliary Surgery",6
+"1734","Hepatobiliary Surgery","Hepatobiliary Surgery",3
+"1735","Hepatobiliary Surgery","Hepatobiliary Surgery",2
+"1736","Hepatobiliary Surgery","Hepatobiliary Surgery",2
+"1737","Hepatobiliary Surgery","Hepatobiliary Surgery",2
+"1738","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1739","Hepatobiliary Surgery","Hepatobiliary Surgery",1
+"1740","Interventional Radiology","Hepatobiliary Surgery",1
+"1741","Urology","Hepatobiliary Surgery",1
+"1742","Vascular Surgery","Hepatobiliary Surgery",1
+"1743","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1744","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1745","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1746","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1747","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1748","Cardiac Large Vascular Surgery","Interventional Radiology",3
+"1749","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1750","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1751","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1752","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1753","Cardiac Large Vascular Surgery","Interventional Radiology",1
+"1754","Cardiology","Interventional Radiology",1
+"1755","Department of Infectious Diseases","Interventional Radiology",1
+"1756","Department of Infectious Diseases","Interventional Radiology",1
+"1757","Department of Infectious Diseases","Interventional Radiology",1
+"1758","Department of Infectious Diseases","Interventional Radiology",2
+"1759","Department of Infectious Diseases","Interventional Radiology",2
+"1760","Department of Infectious Diseases","Interventional Radiology",1
+"1761","Department of Infectious Diseases","Interventional Radiology",1
+"1762","Department of Infectious Diseases","Interventional Radiology",2
+"1763","Department of Traditional Chinese Medicine","Interventional Radiology",1
+"1764","Department of Traditional Chinese Medicine","Interventional Radiology",1
+"1765","Department of Traditional Chinese Medicine","Interventional Radiology",1
+"1766","Emergency Surgery","Interventional Radiology",1
+"1767","Gastroenterology","Interventional Radiology",1
+"1768","Gastroenterology","Interventional Radiology",1
+"1769","Gastroenterology Surgery II","Interventional Radiology",1
+"1770","Hepatobiliary Surgery","Interventional Radiology",1
+"1771","Hepatobiliary Surgery","Interventional Radiology",2
+"1772","Hepatobiliary Surgery","Interventional Radiology",1
+"1773","Hepatobiliary Surgery","Interventional Radiology",1
+"1774","Hepatobiliary Surgery","Interventional Radiology",1
+"1775","Hepatobiliary Surgery","Interventional Radiology",1
+"1776","Hepatobiliary Surgery","Interventional Radiology",1
+"1777","Interventional Radiology","Interventional Radiology",3
+"1778","Interventional Radiology","Interventional Radiology",1
+"1779","Interventional Radiology","Interventional Radiology",1
+"1780","Interventional Radiology","Interventional Radiology",1
+"1781","Interventional Radiology","Interventional Radiology",2
+"1782","Interventional Radiology","Interventional Radiology",5
+"1783","Interventional Radiology","Interventional Radiology",4
+"1784","Interventional Radiology","Interventional Radiology",3
+"1785","Interventional Radiology","Interventional Radiology",1
+"1786","Interventional Radiology","Interventional Radiology",3
+"1787","Interventional Radiology","Interventional Radiology",5
+"1788","Interventional Radiology","Interventional Radiology",4
+"1789","Interventional Radiology","Interventional Radiology",9
+"1790","Interventional Radiology","Interventional Radiology",10
+"1791","Interventional Radiology","Interventional Radiology",13
+"1792","Interventional Radiology","Interventional Radiology",4
+"1793","Interventional Radiology","Interventional Radiology",3
+"1794","Interventional Radiology","Interventional Radiology",10
+"1795","Interventional Radiology","Interventional Radiology",7
+"1796","Interventional Radiology","Interventional Radiology",4
+"1797","Interventional Radiology","Interventional Radiology",18
+"1798","Interventional Radiology","Interventional Radiology",14
+"1799","Interventional Radiology","Interventional Radiology",12
+"1800","Interventional Radiology","Interventional Radiology",4
+"1801","Interventional Radiology","Interventional Radiology",8
+"1802","Interventional Radiology","Interventional Radiology",7
+"1803","Interventional Radiology","Interventional Radiology",7
+"1804","Interventional Radiology","Interventional Radiology",4
+"1805","Interventional Radiology","Interventional Radiology",9
+"1806","Interventional Radiology","Interventional Radiology",8
+"1807","Interventional Radiology","Interventional Radiology",11
+"1808","Interventional Radiology","Interventional Radiology",5
+"1809","Interventional Radiology","Interventional Radiology",13
+"1810","Interventional Radiology","Interventional Radiology",7
+"1811","Interventional Radiology","Interventional Radiology",2
+"1812","Interventional Radiology","Interventional Radiology",4
+"1813","Interventional Radiology","Interventional Radiology",4
+"1814","Interventional Radiology","Interventional Radiology",1
+"1815","Interventional Radiology","Interventional Radiology",2
+"1816","Interventional Radiology","Interventional Radiology",1
+"1817","Interventional Radiology","Interventional Radiology",1
+"1818","Interventional Radiology","Interventional Radiology",1
+"1819","Nephropathy Department","Interventional Radiology",1
+"1820","Neurology","Interventional Radiology",2
+"1821","Respiratory Medicine","Interventional Radiology",1
+"1822","Respiratory Medicine","Interventional Radiology",1
+"1823","Respiratory Medicine","Interventional Radiology",1
+"1824","Urology","Interventional Radiology",1
+"1825","Urology","Interventional Radiology",1
+"1826","Urology","Interventional Radiology",1
+"1827","Urology","Interventional Radiology",1
+"1828","Z11 Digestive Oncology Department I","Interventional Radiology",1
+"1829","Gastroenterology Surgery","IV East Gastroenterology Surgery Anorectal Disease",1
+"1830","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",5
+"1831","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",2
+"1832","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1833","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1834","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1835","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",10
+"1836","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1837","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1838","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",2
+"1839","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",3
+"1840","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1841","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1842","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1843","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",2
+"1844","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1845","IV East Gastroenterology Surgery Anorectal Disease","IV East Gastroenterology Surgery Anorectal Disease",1
+"1846","J10 Neurology","J10 Neurology",1
+"1847","Neurology","J17 Department of Respiratory Medicine",1
+"1848","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",2
+"1849","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",1
+"1850","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",1
+"1851","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",1
+"1852","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",7
+"1853","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",2
+"1854","L3 Breast Oncology DepartmentⅠ","L3 Breast Oncology DepartmentⅠ",2
+"1855","L4 Breast Oncology Department II","L4 Breast Oncology Department II",1
+"1856","L4 Breast Oncology Department II","L4 Breast Oncology Department II",3
+"1857","L4 Breast Oncology Department II","L4 Breast Oncology Department II",2
+"1858","L4 Breast Oncology Department II","L4 Breast Oncology Department II",2
+"1859","L4 Breast Oncology Department II","L4 Breast Oncology Department II",10
+"1860","L4 Breast Oncology Department II","L4 Breast Oncology Department II",1
+"1861","L4 Breast Oncology Department II","L4 Breast Oncology Department II",2
+"1862","L4 Breast Oncology Department II","L4 Breast Oncology Department II",2
+"1863","L4 Breast Oncology Department II","L4 Breast Oncology Department II",4
+"1864","L4 Breast Oncology Department II","L4 Breast Oncology Department II",10
+"1865","L4 Breast Oncology Department II","L4 Breast Oncology Department II",4
+"1866","L4 osteosoft tissue Breast Department II","L4 osteosoft tissue Breast Department II",1
+"1867","Cardiology","L5 osteosoft tissue oncology department",1
+"1868","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",6
+"1869","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",3
+"1870","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",2
+"1871","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",9
+"1872","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",9
+"1873","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",1
+"1874","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",6
+"1875","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",2
+"1876","L5 osteosoft tissue oncology department","L5 osteosoft tissue oncology department",7
+"1877","Thoracic Surgery","L5 osteosoft tissue oncology department",1
+"1878","Haematology","Laminar Flow Ward of Hematology",1
+"1879","Haematology","Laminar Flow Ward of Hematology",1
+"1880","Haematology","Laminar Flow Ward of Hematology",1
+"1881","Laparoscopic surgery","Laparoscopic surgery",1
+"1882","Laparoscopic surgery","Laparoscopic surgery",1
+"1883","Department of Traditional Chinese Medicine","M2 Gynecological Oncology DepartmentⅠ",2
+"1884","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",3
+"1885","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1886","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",7
+"1887","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",3
+"1888","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",3
+"1889","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",4
+"1890","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",2
+"1891","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",3
+"1892","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",2
+"1893","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1894","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",5
+"1895","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",2
+"1896","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1897","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1898","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1899","M2 Gynecological Oncology DepartmentⅠ","M2 Gynecological Oncology DepartmentⅠ",1
+"1900","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1901","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",2
+"1902","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",2
+"1903","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1904","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",2
+"1905","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",7
+"1906","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",4
+"1907","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1908","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1909","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1910","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",5
+"1911","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",6
+"1912","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",2
+"1913","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1914","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",1
+"1915","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",6
+"1916","M3 Urology, Gynecology and Oncology Department II","M3 Urology, Gynecology and Oncology Department II",6
+"1917","Cardiology","Nephropathy Department",1
+"1918","Cardiology","Nephropathy Department",1
+"1919","Cardiology","Nephropathy Department",1
+"1920","Cardiology","Nephropathy Department",1
+"1921","Cardiology","Nephropathy Department",1
+"1922","Cardiology","Nephropathy Department",1
+"1923","Cardiology","Nephropathy Department",1
+"1924","Department of Infectious Diseases","Nephropathy Department",1
+"1925","Gastroenterology","Nephropathy Department",1
+"1926","Nephropathy Department","Nephropathy Department",1
+"1927","Nephropathy Department","Nephropathy Department",2
+"1928","Nephropathy Department","Nephropathy Department",1
+"1929","Nephropathy Department","Nephropathy Department",1
+"1930","Nephropathy Department","Nephropathy Department",1
+"1931","Nephropathy Department","Nephropathy Department",2
+"1932","Nephropathy Department","Nephropathy Department",1
+"1933","Nephropathy Department","Nephropathy Department",1
+"1934","Nephropathy Department","Nephropathy Department",2
+"1935","Nephropathy Department","Nephropathy Department",5
+"1936","Nephropathy Department","Nephropathy Department",4
+"1937","Nephropathy Department","Nephropathy Department",4
+"1938","Nephropathy Department","Nephropathy Department",8
+"1939","Nephropathy Department","Nephropathy Department",7
+"1940","Nephropathy Department","Nephropathy Department",11
+"1941","Nephropathy Department","Nephropathy Department",9
+"1942","Nephropathy Department","Nephropathy Department",16
+"1943","Nephropathy Department","Nephropathy Department",17
+"1944","Nephropathy Department","Nephropathy Department",25
+"1945","Nephropathy Department","Nephropathy Department",21
+"1946","Nephropathy Department","Nephropathy Department",28
+"1947","Nephropathy Department","Nephropathy Department",17
+"1948","Nephropathy Department","Nephropathy Department",11
+"1949","Nephropathy Department","Nephropathy Department",22
+"1950","Nephropathy Department","Nephropathy Department",25
+"1951","Nephropathy Department","Nephropathy Department",33
+"1952","Nephropathy Department","Nephropathy Department",34
+"1953","Nephropathy Department","Nephropathy Department",35
+"1954","Nephropathy Department","Nephropathy Department",32
+"1955","Nephropathy Department","Nephropathy Department",36
+"1956","Nephropathy Department","Nephropathy Department",23
+"1957","Nephropathy Department","Nephropathy Department",40
+"1958","Nephropathy Department","Nephropathy Department",34
+"1959","Nephropathy Department","Nephropathy Department",46
+"1960","Nephropathy Department","Nephropathy Department",44
+"1961","Nephropathy Department","Nephropathy Department",34
+"1962","Nephropathy Department","Nephropathy Department",35
+"1963","Nephropathy Department","Nephropathy Department",34
+"1964","Nephropathy Department","Nephropathy Department",35
+"1965","Nephropathy Department","Nephropathy Department",23
+"1966","Nephropathy Department","Nephropathy Department",26
+"1967","Nephropathy Department","Nephropathy Department",19
+"1968","Nephropathy Department","Nephropathy Department",26
+"1969","Nephropathy Department","Nephropathy Department",29
+"1970","Nephropathy Department","Nephropathy Department",21
+"1971","Nephropathy Department","Nephropathy Department",19
+"1972","Nephropathy Department","Nephropathy Department",12
+"1973","Nephropathy Department","Nephropathy Department",12
+"1974","Nephropathy Department","Nephropathy Department",25
+"1975","Nephropathy Department","Nephropathy Department",17
+"1976","Nephropathy Department","Nephropathy Department",15
+"1977","Nephropathy Department","Nephropathy Department",11
+"1978","Nephropathy Department","Nephropathy Department",5
+"1979","Nephropathy Department","Nephropathy Department",12
+"1980","Nephropathy Department","Nephropathy Department",6
+"1981","Nephropathy Department","Nephropathy Department",1
+"1982","Nephropathy Department","Nephropathy Department",2
+"1983","Nephropathy Department","Nephropathy Department",1
+"1984","orthopedics","Nephropathy Department",1
+"1985","Urology","Nephropathy Department",1
+"1986","Vascular Surgery","Nephropathy Department",1
+"1987","Cardiac Large Vascular Surgery","Neurology",1
+"1988","Cardiac Large Vascular Surgery","Neurology",1
+"1989","Cardiac Large Vascular Surgery","Neurology",1
+"1990","Cardiology","Neurology",1
+"1991","Cardiology","Neurology",1
+"1992","Cardiology","Neurology",2
+"1993","Cardiology","Neurology",1
+"1994","Cardiology","Neurology",1
+"1995","Cardiology","Neurology",2
+"1996","Cardiology","Neurology",1
+"1997","Cardiology","Neurology",2
+"1998","Cardiology","Neurology",1
+"1999","Cardiology","Neurology",1
+"2000","Cardiology","Neurology",2
+"2001","Cardiology","Neurology",1
+"2002","Cardiology","Neurology",1
+"2003","Cardiology","Neurology",1
+"2004","Cardiology","Neurology",1
+"2005","Cardiology","Neurology",2
+"2006","Cardiology","Neurology",2
+"2007","Cardiology","Neurology",1
+"2008","Cardiology","Neurology",1
+"2009","Cardiology","Neurology",1
+"2010","Cardiology","Neurology",1
+"2011","Department of Critical Care Medicine","Neurology",1
+"2012","Department of Infectious Diseases","Neurology",1
+"2013","Department of Infectious Diseases","Neurology",1
+"2014","Department of Traditional Chinese Medicine","Neurology",1
+"2015","Department of Traditional Chinese Medicine","Neurology",1
+"2016","Emergency Ward","Neurology",1
+"2017","Endocrinology Department","Neurology",1
+"2018","Gastroenterology","Neurology",1
+"2019","Gastroenterology Surgery","Neurology",1
+"2020","Nephropathy Department","Neurology",1
+"2021","Nephropathy Department","Neurology",1
+"2022","Nephropathy Department","Neurology",1
+"2023","Neurology","Neurology",1
+"2024","Neurology","Neurology",1
+"2025","Neurology","Neurology",1
+"2026","Neurology","Neurology",1
+"2027","Neurology","Neurology",1
+"2028","Neurology","Neurology",1
+"2029","Neurology","Neurology",2
+"2030","Neurology","Neurology",1
+"2031","Neurology","Neurology",5
+"2032","Neurology","Neurology",4
+"2033","Neurology","Neurology",5
+"2034","Neurology","Neurology",6
+"2035","Neurology","Neurology",12
+"2036","Neurology","Neurology",12
+"2037","Neurology","Neurology",6
+"2038","Neurology","Neurology",13
+"2039","Neurology","Neurology",18
+"2040","Neurology","Neurology",15
+"2041","Neurology","Neurology",12
+"2042","Neurology","Neurology",45
+"2043","Neurology","Neurology",34
+"2044","Neurology","Neurology",43
+"2045","Neurology","Neurology",34
+"2046","Neurology","Neurology",34
+"2047","Neurology","Neurology",48
+"2048","Neurology","Neurology",43
+"2049","Neurology","Neurology",32
+"2050","Neurology","Neurology",47
+"2051","Neurology","Neurology",48
+"2052","Neurology","Neurology",62
+"2053","Neurology","Neurology",62
+"2054","Neurology","Neurology",72
+"2055","Neurology","Neurology",63
+"2056","Neurology","Neurology",61
+"2057","Neurology","Neurology",72
+"2058","Neurology","Neurology",73
+"2059","Neurology","Neurology",75
+"2060","Neurology","Neurology",82
+"2061","Neurology","Neurology",56
+"2062","Neurology","Neurology",65
+"2063","Neurology","Neurology",69
+"2064","Neurology","Neurology",52
+"2065","Neurology","Neurology",59
+"2066","Neurology","Neurology",51
+"2067","Neurology","Neurology",59
+"2068","Neurology","Neurology",65
+"2069","Neurology","Neurology",57
+"2070","Neurology","Neurology",54
+"2071","Neurology","Neurology",40
+"2072","Neurology","Neurology",44
+"2073","Neurology","Neurology",49
+"2074","Neurology","Neurology",29
+"2075","Neurology","Neurology",35
+"2076","Neurology","Neurology",23
+"2077","Neurology","Neurology",16
+"2078","Neurology","Neurology",14
+"2079","Neurology","Neurology",11
+"2080","Neurology","Neurology",5
+"2081","Neurology","Neurology",5
+"2082","Neurology","Neurology",1
+"2083","Neurology","Neurology",3
+"2084","Neurology","Neurology",2
+"2085","Neurology","Neurology",1
+"2086","Neurology","Neurology",1
+"2087","Neurology","Neurology",1
+"2088","Neurosurgery","Neurology",1
+"2089","Neurosurgery","Neurology",1
+"2090","ophthalmology","Neurology",1
+"2091","orthopedics","Neurology",1
+"2092","orthopedics","Neurology",1
+"2093","orthopedics","Neurology",1
+"2094","Respiratory Medicine","Neurology",1
+"2095","Urology","Neurology",1
+"2096","Vascular Surgery","Neurology",1
+"2097","Cardiology","Neurosurgery",1
+"2098","Cardiology","Neurosurgery",1
+"2099","Cardiology","Neurosurgery",2
+"2100","Cardiology","Neurosurgery",1
+"2101","Cardiology","Neurosurgery",1
+"2102","Comprehensive internal medicine","Neurosurgery",1
+"2103","Department of Traditional Chinese Medicine","Neurosurgery",1
+"2104","Emergency Surgery","Neurosurgery",1
+"2105","Neurology","Neurosurgery",1
+"2106","Neurology","Neurosurgery",1
+"2107","Neurology","Neurosurgery",1
+"2108","Neurology","Neurosurgery",2
+"2109","Neurology","Neurosurgery",1
+"2110","Neurology","Neurosurgery",1
+"2111","Neurology","Neurosurgery",1
+"2112","Neurology","Neurosurgery",1
+"2113","Neurology","Neurosurgery",1
+"2114","Neurology","Neurosurgery",1
+"2115","Neurology","Neurosurgery",1
+"2116","Neurosurgery","Neurosurgery",1
+"2117","Neurosurgery","Neurosurgery",2
+"2118","Neurosurgery","Neurosurgery",2
+"2119","Neurosurgery","Neurosurgery",2
+"2120","Neurosurgery","Neurosurgery",5
+"2121","Neurosurgery","Neurosurgery",5
+"2122","Neurosurgery","Neurosurgery",2
+"2123","Neurosurgery","Neurosurgery",7
+"2124","Neurosurgery","Neurosurgery",4
+"2125","Neurosurgery","Neurosurgery",7
+"2126","Neurosurgery","Neurosurgery",4
+"2127","Neurosurgery","Neurosurgery",9
+"2128","Neurosurgery","Neurosurgery",8
+"2129","Neurosurgery","Neurosurgery",10
+"2130","Neurosurgery","Neurosurgery",11
+"2131","Neurosurgery","Neurosurgery",8
+"2132","Neurosurgery","Neurosurgery",14
+"2133","Neurosurgery","Neurosurgery",6
+"2134","Neurosurgery","Neurosurgery",16
+"2135","Neurosurgery","Neurosurgery",10
+"2136","Neurosurgery","Neurosurgery",10
+"2137","Neurosurgery","Neurosurgery",13
+"2138","Neurosurgery","Neurosurgery",9
+"2139","Neurosurgery","Neurosurgery",9
+"2140","Neurosurgery","Neurosurgery",17
+"2141","Neurosurgery","Neurosurgery",19
+"2142","Neurosurgery","Neurosurgery",12
+"2143","Neurosurgery","Neurosurgery",12
+"2144","Neurosurgery","Neurosurgery",7
+"2145","Neurosurgery","Neurosurgery",10
+"2146","Neurosurgery","Neurosurgery",10
+"2147","Neurosurgery","Neurosurgery",5
+"2148","Neurosurgery","Neurosurgery",3
+"2149","Neurosurgery","Neurosurgery",8
+"2150","Neurosurgery","Neurosurgery",5
+"2151","Neurosurgery","Neurosurgery",8
+"2152","Neurosurgery","Neurosurgery",10
+"2153","Neurosurgery","Neurosurgery",7
+"2154","Neurosurgery","Neurosurgery",2
+"2155","Neurosurgery","Neurosurgery",1
+"2156","Neurosurgery","Neurosurgery",2
+"2157","Neurosurgery","Neurosurgery",2
+"2158","Neurosurgery","Neurosurgery",2
+"2159","Neurosurgery","Neurosurgery",1
+"2160","Neurosurgery","Neurosurgery",1
+"2161","Neurosurgery","Neurosurgery",1
+"2162","orthopedics","Neurosurgery",1
+"2163","Vascular Surgery","Neurosurgery",1
+"2164","Vascular Surgery","Neurosurgery",1
+"2165","Z13 Chest Oncology Department I","Neurosurgery",1
+"2166","Not secreted","Not secreted",1
+"2167","Nuclide Therapy Department","Nuclide Therapy Department",1
+"2168","Nuclide Therapy Department","Nuclide Therapy Department",1
+"2169","Nuclide Therapy Department","Nuclide Therapy Department",1
+"2170","obstetrics","obstetrics",1
+"2171","Cardiology","ophthalmology",1
+"2172","Cardiology","ophthalmology",1
+"2173","Comprehensive internal medicine","ophthalmology",1
+"2174","Comprehensive internal medicine","ophthalmology",1
+"2175","Comprehensive internal medicine","ophthalmology",1
+"2176","Comprehensive internal medicine","ophthalmology",1
+"2177","Endocrinology Department","ophthalmology",1
+"2178","Endocrinology Department","ophthalmology",3
+"2179","Endocrinology Department","ophthalmology",1
+"2180","Hepatobiliary Surgery","ophthalmology",1
+"2181","ophthalmology","ophthalmology",2
+"2182","ophthalmology","ophthalmology",1
+"2183","ophthalmology","ophthalmology",3
+"2184","ophthalmology","ophthalmology",1
+"2185","ophthalmology","ophthalmology",4
+"2186","ophthalmology","ophthalmology",6
+"2187","ophthalmology","ophthalmology",5
+"2188","ophthalmology","ophthalmology",4
+"2189","ophthalmology","ophthalmology",5
+"2190","ophthalmology","ophthalmology",6
+"2191","ophthalmology","ophthalmology",9
+"2192","ophthalmology","ophthalmology",17
+"2193","ophthalmology","ophthalmology",6
+"2194","ophthalmology","ophthalmology",12
+"2195","ophthalmology","ophthalmology",16
+"2196","ophthalmology","ophthalmology",21
+"2197","ophthalmology","ophthalmology",17
+"2198","ophthalmology","ophthalmology",20
+"2199","ophthalmology","ophthalmology",17
+"2200","ophthalmology","ophthalmology",20
+"2201","ophthalmology","ophthalmology",15
+"2202","ophthalmology","ophthalmology",16
+"2203","ophthalmology","ophthalmology",26
+"2204","ophthalmology","ophthalmology",27
+"2205","ophthalmology","ophthalmology",25
+"2206","ophthalmology","ophthalmology",29
+"2207","ophthalmology","ophthalmology",26
+"2208","ophthalmology","ophthalmology",18
+"2209","ophthalmology","ophthalmology",29
+"2210","ophthalmology","ophthalmology",28
+"2211","ophthalmology","ophthalmology",26
+"2212","ophthalmology","ophthalmology",31
+"2213","ophthalmology","ophthalmology",28
+"2214","ophthalmology","ophthalmology",23
+"2215","ophthalmology","ophthalmology",24
+"2216","ophthalmology","ophthalmology",26
+"2217","ophthalmology","ophthalmology",22
+"2218","ophthalmology","ophthalmology",13
+"2219","ophthalmology","ophthalmology",10
+"2220","ophthalmology","ophthalmology",13
+"2221","ophthalmology","ophthalmology",10
+"2222","ophthalmology","ophthalmology",7
+"2223","ophthalmology","ophthalmology",5
+"2224","ophthalmology","ophthalmology",4
+"2225","ophthalmology","ophthalmology",5
+"2226","ophthalmology","ophthalmology",1
+"2227","ophthalmology","ophthalmology",1
+"2228","ophthalmology","ophthalmology",1
+"2229","Cardiology","orthopedics",1
+"2230","Cardiology","orthopedics",1
+"2231","Cardiology","orthopedics",2
+"2232","Cardiology","orthopedics",1
+"2233","Cardiology","orthopedics",1
+"2234","Cardiology","orthopedics",2
+"2235","Cardiology","orthopedics",2
+"2236","Cardiology","orthopedics",2
+"2237","Cardiology","orthopedics",1
+"2238","Cardiology","orthopedics",1
+"2239","Cardiology","orthopedics",1
+"2240","Comprehensive internal medicine","orthopedics",1
+"2241","Comprehensive internal medicine","orthopedics",1
+"2242","Department of Critical Care Medicine","orthopedics",1
+"2243","Department of Infectious Diseases","orthopedics",1
+"2244","Department of Traditional Chinese Medicine","orthopedics",1
+"2245","Department of Traditional Chinese Medicine","orthopedics",1
+"2246","Emergency Surgery","orthopedics",1
+"2247","Endocrinology Department","orthopedics",1
+"2248","Endocrinology Department","orthopedics",1
+"2249","Neurology","orthopedics",1
+"2250","orthopedics","orthopedics",1
+"2251","orthopedics","orthopedics",2
+"2252","orthopedics","orthopedics",1
+"2253","orthopedics","orthopedics",1
+"2254","orthopedics","orthopedics",1
+"2255","orthopedics","orthopedics",2
+"2256","orthopedics","orthopedics",1
+"2257","orthopedics","orthopedics",2
+"2258","orthopedics","orthopedics",2
+"2259","orthopedics","orthopedics",2
+"2260","orthopedics","orthopedics",2
+"2261","orthopedics","orthopedics",1
+"2262","orthopedics","orthopedics",9
+"2263","orthopedics","orthopedics",3
+"2264","orthopedics","orthopedics",7
+"2265","orthopedics","orthopedics",10
+"2266","orthopedics","orthopedics",7
+"2267","orthopedics","orthopedics",13
+"2268","orthopedics","orthopedics",10
+"2269","orthopedics","orthopedics",17
+"2270","orthopedics","orthopedics",14
+"2271","orthopedics","orthopedics",21
+"2272","orthopedics","orthopedics",20
+"2273","orthopedics","orthopedics",24
+"2274","orthopedics","orthopedics",13
+"2275","orthopedics","orthopedics",31
+"2276","orthopedics","orthopedics",22
+"2277","orthopedics","orthopedics",19
+"2278","orthopedics","orthopedics",25
+"2279","orthopedics","orthopedics",22
+"2280","orthopedics","orthopedics",28
+"2281","orthopedics","orthopedics",28
+"2282","orthopedics","orthopedics",35
+"2283","orthopedics","orthopedics",31
+"2284","orthopedics","orthopedics",21
+"2285","orthopedics","orthopedics",36
+"2286","orthopedics","orthopedics",28
+"2287","orthopedics","orthopedics",27
+"2288","orthopedics","orthopedics",22
+"2289","orthopedics","orthopedics",19
+"2290","orthopedics","orthopedics",21
+"2291","orthopedics","orthopedics",15
+"2292","orthopedics","orthopedics",11
+"2293","orthopedics","orthopedics",11
+"2294","orthopedics","orthopedics",14
+"2295","orthopedics","orthopedics",10
+"2296","orthopedics","orthopedics",7
+"2297","orthopedics","orthopedics",11
+"2298","orthopedics","orthopedics",7
+"2299","orthopedics","orthopedics",8
+"2300","orthopedics","orthopedics",4
+"2301","orthopedics","orthopedics",4
+"2302","orthopedics","orthopedics",4
+"2303","orthopedics","orthopedics",1
+"2304","orthopedics","orthopedics",1
+"2305","Pain Department","orthopedics",1
+"2306","Pain Department","orthopedics",1
+"2307","Pain Department","orthopedics",1
+"2308","Pain Department","orthopedics",1
+"2309","Vascular Surgery","orthopedics",1
+"2310","Cardiology","Otolaryngology",1
+"2311","Cardiology","Otolaryngology",1
+"2312","Comprehensive internal medicine","Otolaryngology",1
+"2313","Neurology","Otolaryngology",1
+"2314","Neurology","Otolaryngology",1
+"2315","Otolaryngology","Otolaryngology",1
+"2316","Otolaryngology","Otolaryngology",1
+"2317","Otolaryngology","Otolaryngology",3
+"2318","Otolaryngology","Otolaryngology",2
+"2319","Otolaryngology","Otolaryngology",2
+"2320","Otolaryngology","Otolaryngology",2
+"2321","Otolaryngology","Otolaryngology",1
+"2322","Otolaryngology","Otolaryngology",6
+"2323","Otolaryngology","Otolaryngology",2
+"2324","Otolaryngology","Otolaryngology",6
+"2325","Otolaryngology","Otolaryngology",4
+"2326","Otolaryngology","Otolaryngology",8
+"2327","Otolaryngology","Otolaryngology",6
+"2328","Otolaryngology","Otolaryngology",6
+"2329","Otolaryngology","Otolaryngology",8
+"2330","Otolaryngology","Otolaryngology",5
+"2331","Otolaryngology","Otolaryngology",9
+"2332","Otolaryngology","Otolaryngology",4
+"2333","Otolaryngology","Otolaryngology",7
+"2334","Otolaryngology","Otolaryngology",13
+"2335","Otolaryngology","Otolaryngology",10
+"2336","Otolaryngology","Otolaryngology",13
+"2337","Otolaryngology","Otolaryngology",12
+"2338","Otolaryngology","Otolaryngology",15
+"2339","Otolaryngology","Otolaryngology",21
+"2340","Otolaryngology","Otolaryngology",12
+"2341","Otolaryngology","Otolaryngology",12
+"2342","Otolaryngology","Otolaryngology",10
+"2343","Otolaryngology","Otolaryngology",11
+"2344","Otolaryngology","Otolaryngology",17
+"2345","Otolaryngology","Otolaryngology",10
+"2346","Otolaryngology","Otolaryngology",6
+"2347","Otolaryngology","Otolaryngology",15
+"2348","Otolaryngology","Otolaryngology",7
+"2349","Otolaryngology","Otolaryngology",8
+"2350","Otolaryngology","Otolaryngology",8
+"2351","Otolaryngology","Otolaryngology",5
+"2352","Otolaryngology","Otolaryngology",10
+"2353","Otolaryngology","Otolaryngology",5
+"2354","Otolaryngology","Otolaryngology",4
+"2355","Otolaryngology","Otolaryngology",6
+"2356","Otolaryngology","Otolaryngology",3
+"2357","Otolaryngology","Otolaryngology",4
+"2358","Otolaryngology","Otolaryngology",3
+"2359","Otolaryngology","Otolaryngology",1
+"2360","Otolaryngology","Otolaryngology",1
+"2361","Otolaryngology","Otolaryngology",2
+"2362","Otolaryngology","Otolaryngology",3
+"2363","Otolaryngology","Otolaryngology",1
+"2364","Otolaryngology","Otolaryngology",2
+"2365","Otolaryngology","Otolaryngology",1
+"2366","Z12 Chest Oncology DepartmentⅠ","Otolaryngology",1
+"2367","Cardiology","Pain Department",1
+"2368","Department of Rehabilitation Medicine","Pain Department",1
+"2369","dermatology","Pain Department",1
+"2370","dermatology","Pain Department",1
+"2371","Pain Department","Pain Department",1
+"2372","Pain Department","Pain Department",2
+"2373","Pain Department","Pain Department",4
+"2374","Pain Department","Pain Department",1
+"2375","Pain Department","Pain Department",1
+"2376","Pain Department","Pain Department",5
+"2377","Pain Department","Pain Department",2
+"2378","Pain Department","Pain Department",2
+"2379","Pain Department","Pain Department",6
+"2380","Pain Department","Pain Department",9
+"2381","Pain Department","Pain Department",3
+"2382","Pain Department","Pain Department",6
+"2383","Pain Department","Pain Department",6
+"2384","Pain Department","Pain Department",4
+"2385","Pain Department","Pain Department",13
+"2386","Pain Department","Pain Department",7
+"2387","Pain Department","Pain Department",5
+"2388","Pain Department","Pain Department",3
+"2389","Pain Department","Pain Department",3
+"2390","Pain Department","Pain Department",4
+"2391","Pain Department","Pain Department",8
+"2392","Pain Department","Pain Department",9
+"2393","Pain Department","Pain Department",6
+"2394","Pain Department","Pain Department",5
+"2395","Pain Department","Pain Department",2
+"2396","Pain Department","Pain Department",7
+"2397","Pain Department","Pain Department",1
+"2398","Pain Department","Pain Department",7
+"2399","Pain Department","Pain Department",1
+"2400","Pain Department","Pain Department",1
+"2401","Pain Department","Pain Department",1
+"2402","Pain Department","Pain Department",1
+"2403","Cardiology","Pancreatic Surgery",1
+"2404","Cardiology","Pancreatic Surgery",1
+"2405","Comprehensive internal medicine","Pancreatic Surgery",1
+"2406","Department of Critical Care Medicine","Pancreatic Surgery",1
+"2407","Digestive Oncology Surgery","Pancreatic Surgery",1
+"2408","Emergency Surgery","Pancreatic Surgery",1
+"2409","Emergency Surgery","Pancreatic Surgery",1
+"2410","Emergency Surgery","Pancreatic Surgery",1
+"2411","Emergency Surgery","Pancreatic Surgery",1
+"2412","Emergency Surgery","Pancreatic Surgery",1
+"2413","Emergency Surgery","Pancreatic Surgery",1
+"2414","Gastroenterology","Pancreatic Surgery",1
+"2415","Gastroenterology","Pancreatic Surgery",1
+"2416","Gastroenterology","Pancreatic Surgery",2
+"2417","Gastroenterology","Pancreatic Surgery",1
+"2418","Gastroenterology","Pancreatic Surgery",1
+"2419","Gastroenterology","Pancreatic Surgery",1
+"2420","Gastroenterology Surgery II","Pancreatic Surgery",1
+"2421","Pain Department","Pancreatic Surgery",1
+"2422","Pancreatic Surgery","Pancreatic Surgery",1
+"2423","Pancreatic Surgery","Pancreatic Surgery",1
+"2424","Pancreatic Surgery","Pancreatic Surgery",2
+"2425","Pancreatic Surgery","Pancreatic Surgery",1
+"2426","Pancreatic Surgery","Pancreatic Surgery",2
+"2427","Pancreatic Surgery","Pancreatic Surgery",1
+"2428","Pancreatic Surgery","Pancreatic Surgery",2
+"2429","Pancreatic Surgery","Pancreatic Surgery",3
+"2430","Pancreatic Surgery","Pancreatic Surgery",2
+"2431","Pancreatic Surgery","Pancreatic Surgery",4
+"2432","Pancreatic Surgery","Pancreatic Surgery",4
+"2433","Pancreatic Surgery","Pancreatic Surgery",5
+"2434","Pancreatic Surgery","Pancreatic Surgery",4
+"2435","Pancreatic Surgery","Pancreatic Surgery",6
+"2436","Pancreatic Surgery","Pancreatic Surgery",13
+"2437","Pancreatic Surgery","Pancreatic Surgery",12
+"2438","Pancreatic Surgery","Pancreatic Surgery",9
+"2439","Pancreatic Surgery","Pancreatic Surgery",10
+"2440","Pancreatic Surgery","Pancreatic Surgery",6
+"2441","Pancreatic Surgery","Pancreatic Surgery",9
+"2442","Pancreatic Surgery","Pancreatic Surgery",5
+"2443","Pancreatic Surgery","Pancreatic Surgery",13
+"2444","Pancreatic Surgery","Pancreatic Surgery",6
+"2445","Pancreatic Surgery","Pancreatic Surgery",9
+"2446","Pancreatic Surgery","Pancreatic Surgery",6
+"2447","Pancreatic Surgery","Pancreatic Surgery",12
+"2448","Pancreatic Surgery","Pancreatic Surgery",5
+"2449","Pancreatic Surgery","Pancreatic Surgery",5
+"2450","Pancreatic Surgery","Pancreatic Surgery",3
+"2451","Pancreatic Surgery","Pancreatic Surgery",6
+"2452","Pancreatic Surgery","Pancreatic Surgery",5
+"2453","Pancreatic Surgery","Pancreatic Surgery",2
+"2454","Pancreatic Surgery","Pancreatic Surgery",5
+"2455","Pancreatic Surgery","Pancreatic Surgery",3
+"2456","Pancreatic Surgery","Pancreatic Surgery",5
+"2457","Pancreatic Surgery","Pancreatic Surgery",3
+"2458","Pancreatic Surgery","Pancreatic Surgery",5
+"2459","Pancreatic Surgery","Pancreatic Surgery",3
+"2460","Pancreatic Surgery","Pancreatic Surgery",2
+"2461","Pancreatic Surgery","Pancreatic Surgery",1
+"2462","Pancreatic Surgery","Pancreatic Surgery",2
+"2463","Pancreatic Surgery","Pancreatic Surgery",1
+"2464","Department of Traditional Chinese Medicine","Plastic Surgery",1
+"2465","ophthalmology","Plastic Surgery",1
+"2466","Plastic Surgery","Plastic Surgery",1
+"2467","Plastic Surgery","Plastic Surgery",1
+"2468","Plastic Surgery","Plastic Surgery",1
+"2469","Plastic Surgery","Plastic Surgery",1
+"2470","Plastic Surgery","Plastic Surgery",1
+"2471","Plastic Surgery","Plastic Surgery",1
+"2472","Plastic Surgery","Plastic Surgery",2
+"2473","Plastic Surgery","Plastic Surgery",3
+"2474","Plastic Surgery","Plastic Surgery",2
+"2475","Plastic Surgery","Plastic Surgery",1
+"2476","Plastic Surgery","Plastic Surgery",2
+"2477","Plastic Surgery","Plastic Surgery",1
+"2478","Plastic Surgery","Plastic Surgery",2
+"2479","Plastic Surgery","Plastic Surgery",1
+"2480","Plastic Surgery","Plastic Surgery",2
+"2481","Plastic Surgery","Plastic Surgery",1
+"2482","Plastic Surgery","Plastic Surgery",2
+"2483","Plastic Surgery","Plastic Surgery",5
+"2484","Plastic Surgery","Plastic Surgery",2
+"2485","Plastic Surgery","Plastic Surgery",3
+"2486","Plastic Surgery","Plastic Surgery",1
+"2487","Plastic Surgery","Plastic Surgery",2
+"2488","Plastic Surgery","Plastic Surgery",1
+"2489","Vascular Surgery","Plastic Surgery",1
+"2490","Cardiology","Respiratory and Critical Care Medicine",1
+"2491","Cardiology","Respiratory and Critical Care Medicine",1
+"2492","Cardiology","Respiratory and Critical Care Medicine",1
+"2493","Comprehensive internal medicine","Respiratory and Critical Care Medicine",1
+"2494","Comprehensive internal medicine","Respiratory and Critical Care Medicine",1
+"2495","Department of Traditional Chinese Medicine","Respiratory and Critical Care Medicine",1
+"2496","Endocrinology Department","Respiratory and Critical Care Medicine",1
+"2497","Gastroenterology Surgery","Respiratory and Critical Care Medicine",1
+"2498","Neurology","Respiratory and Critical Care Medicine",1
+"2499","orthopedics","Respiratory and Critical Care Medicine",1
+"2500","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2501","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2502","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2503","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2504","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2505","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2506","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",3
+"2507","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2508","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",7
+"2509","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",5
+"2510","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",6
+"2511","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",6
+"2512","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2513","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2514","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2515","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",4
+"2516","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",10
+"2517","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",9
+"2518","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",8
+"2519","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",15
+"2520","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",20
+"2521","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",10
+"2522","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",17
+"2523","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",15
+"2524","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",21
+"2525","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",15
+"2526","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",16
+"2527","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",23
+"2528","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",11
+"2529","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",21
+"2530","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",17
+"2531","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",20
+"2532","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",10
+"2533","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",11
+"2534","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",10
+"2535","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",14
+"2536","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",10
+"2537","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",2
+"2538","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",4
+"2539","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",8
+"2540","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",11
+"2541","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",8
+"2542","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",4
+"2543","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",4
+"2544","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",4
+"2545","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",3
+"2546","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2547","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2548","Respiratory and Critical Care Medicine","Respiratory and Critical Care Medicine",1
+"2549","Rheumatism and Immunology Department","Respiratory and Critical Care Medicine",1
+"2550","Z14 Chest Oncology Department II","Respiratory and Critical Care Medicine",1
+"2551","Z14 Chest Oncology Department II","Respiratory and Critical Care Medicine",1
+"2552","Cardiac Large Vascular Surgery","Respiratory Medicine",1
+"2553","Cardiac Large Vascular Surgery","Respiratory Medicine",1
+"2554","Cardiology","Respiratory Medicine",1
+"2555","Cardiology","Respiratory Medicine",1
+"2556","Cardiology","Respiratory Medicine",1
+"2557","Cardiology","Respiratory Medicine",1
+"2558","Cardiology","Respiratory Medicine",1
+"2559","Cardiology","Respiratory Medicine",1
+"2560","Cardiology","Respiratory Medicine",1
+"2561","Cardiology","Respiratory Medicine",1
+"2562","Cardiology","Respiratory Medicine",2
+"2563","Cardiology","Respiratory Medicine",1
+"2564","Cardiology","Respiratory Medicine",1
+"2565","Cardiology","Respiratory Medicine",3
+"2566","Cardiology","Respiratory Medicine",1
+"2567","Cardiology","Respiratory Medicine",1
+"2568","Cardiology","Respiratory Medicine",1
+"2569","Cardiology","Respiratory Medicine",1
+"2570","Cardiology","Respiratory Medicine",1
+"2571","Cardiology","Respiratory Medicine",1
+"2572","Chest Oncology Surgery","Respiratory Medicine",1
+"2573","Comprehensive internal medicine","Respiratory Medicine",1
+"2574","Comprehensive internal medicine","Respiratory Medicine",1
+"2575","Department of Critical Care Medicine","Respiratory Medicine",1
+"2576","Department of Infectious Diseases","Respiratory Medicine",1
+"2577","Department of Traditional Chinese Medicine","Respiratory Medicine",1
+"2578","Emergency Internal Medicine","Respiratory Medicine",1
+"2579","Gastroenterology","Respiratory Medicine",1
+"2580","Gastroenterology","Respiratory Medicine",1
+"2581","Interventional Radiology","Respiratory Medicine",1
+"2582","L3 Breast Oncology DepartmentⅠ","Respiratory Medicine",1
+"2583","Nephropathy Department","Respiratory Medicine",1
+"2584","Neurology","Respiratory Medicine",1
+"2585","Neurology","Respiratory Medicine",1
+"2586","Neurology","Respiratory Medicine",1
+"2587","orthopedics","Respiratory Medicine",1
+"2588","orthopedics","Respiratory Medicine",1
+"2589","orthopedics","Respiratory Medicine",1
+"2590","Respiratory Medicine","Respiratory Medicine",2
+"2591","Respiratory Medicine","Respiratory Medicine",1
+"2592","Respiratory Medicine","Respiratory Medicine",2
+"2593","Respiratory Medicine","Respiratory Medicine",1
+"2594","Respiratory Medicine","Respiratory Medicine",2
+"2595","Respiratory Medicine","Respiratory Medicine",2
+"2596","Respiratory Medicine","Respiratory Medicine",3
+"2597","Respiratory Medicine","Respiratory Medicine",1
+"2598","Respiratory Medicine","Respiratory Medicine",4
+"2599","Respiratory Medicine","Respiratory Medicine",5
+"2600","Respiratory Medicine","Respiratory Medicine",5
+"2601","Respiratory Medicine","Respiratory Medicine",5
+"2602","Respiratory Medicine","Respiratory Medicine",3
+"2603","Respiratory Medicine","Respiratory Medicine",6
+"2604","Respiratory Medicine","Respiratory Medicine",13
+"2605","Respiratory Medicine","Respiratory Medicine",7
+"2606","Respiratory Medicine","Respiratory Medicine",13
+"2607","Respiratory Medicine","Respiratory Medicine",9
+"2608","Respiratory Medicine","Respiratory Medicine",17
+"2609","Respiratory Medicine","Respiratory Medicine",11
+"2610","Respiratory Medicine","Respiratory Medicine",14
+"2611","Respiratory Medicine","Respiratory Medicine",17
+"2612","Respiratory Medicine","Respiratory Medicine",22
+"2613","Respiratory Medicine","Respiratory Medicine",25
+"2614","Respiratory Medicine","Respiratory Medicine",28
+"2615","Respiratory Medicine","Respiratory Medicine",30
+"2616","Respiratory Medicine","Respiratory Medicine",31
+"2617","Respiratory Medicine","Respiratory Medicine",33
+"2618","Respiratory Medicine","Respiratory Medicine",41
+"2619","Respiratory Medicine","Respiratory Medicine",40
+"2620","Respiratory Medicine","Respiratory Medicine",33
+"2621","Respiratory Medicine","Respiratory Medicine",40
+"2622","Respiratory Medicine","Respiratory Medicine",32
+"2623","Respiratory Medicine","Respiratory Medicine",35
+"2624","Respiratory Medicine","Respiratory Medicine",35
+"2625","Respiratory Medicine","Respiratory Medicine",39
+"2626","Respiratory Medicine","Respiratory Medicine",33
+"2627","Respiratory Medicine","Respiratory Medicine",30
+"2628","Respiratory Medicine","Respiratory Medicine",49
+"2629","Respiratory Medicine","Respiratory Medicine",28
+"2630","Respiratory Medicine","Respiratory Medicine",44
+"2631","Respiratory Medicine","Respiratory Medicine",31
+"2632","Respiratory Medicine","Respiratory Medicine",27
+"2633","Respiratory Medicine","Respiratory Medicine",39
+"2634","Respiratory Medicine","Respiratory Medicine",28
+"2635","Respiratory Medicine","Respiratory Medicine",25
+"2636","Respiratory Medicine","Respiratory Medicine",18
+"2637","Respiratory Medicine","Respiratory Medicine",21
+"2638","Respiratory Medicine","Respiratory Medicine",9
+"2639","Respiratory Medicine","Respiratory Medicine",19
+"2640","Respiratory Medicine","Respiratory Medicine",12
+"2641","Respiratory Medicine","Respiratory Medicine",6
+"2642","Respiratory Medicine","Respiratory Medicine",15
+"2643","Respiratory Medicine","Respiratory Medicine",5
+"2644","Respiratory Medicine","Respiratory Medicine",1
+"2645","Respiratory Medicine","Respiratory Medicine",1
+"2646","Respiratory Medicine","Respiratory Medicine",1
+"2647","Rheumatism and Immunology Department","Respiratory Medicine",1
+"2648","Thoracic Surgery","Respiratory Medicine",1
+"2649","Thoracic Surgery","Respiratory Medicine",1
+"2650","Urology","Respiratory Medicine",1
+"2651","Z10 Abdominal Oncology Department II","Respiratory Medicine",1
+"2652","Cardiology","Rheumatism and Immunology Department",1
+"2653","Cardiology","Rheumatism and Immunology Department",1
+"2654","Comprehensive internal medicine","Rheumatism and Immunology Department",1
+"2655","Department of Rehabilitation Medicine","Rheumatism and Immunology Department",1
+"2656","Endocrinology Department","Rheumatism and Immunology Department",1
+"2657","Gastroenterology","Rheumatism and Immunology Department",1
+"2658","Neurology","Rheumatism and Immunology Department",1
+"2659","Respiratory Medicine","Rheumatism and Immunology Department",1
+"2660","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2661","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2662","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2663","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2664","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2665","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2666","Rheumatism and Immunology Department","Rheumatism and Immunology Department",3
+"2667","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2668","Rheumatism and Immunology Department","Rheumatism and Immunology Department",8
+"2669","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2670","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2671","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2672","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2673","Rheumatism and Immunology Department","Rheumatism and Immunology Department",10
+"2674","Rheumatism and Immunology Department","Rheumatism and Immunology Department",7
+"2675","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2676","Rheumatism and Immunology Department","Rheumatism and Immunology Department",6
+"2677","Rheumatism and Immunology Department","Rheumatism and Immunology Department",2
+"2678","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2679","Rheumatism and Immunology Department","Rheumatism and Immunology Department",7
+"2680","Rheumatism and Immunology Department","Rheumatism and Immunology Department",10
+"2681","Rheumatism and Immunology Department","Rheumatism and Immunology Department",13
+"2682","Rheumatism and Immunology Department","Rheumatism and Immunology Department",10
+"2683","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2684","Rheumatism and Immunology Department","Rheumatism and Immunology Department",10
+"2685","Rheumatism and Immunology Department","Rheumatism and Immunology Department",11
+"2686","Rheumatism and Immunology Department","Rheumatism and Immunology Department",8
+"2687","Rheumatism and Immunology Department","Rheumatism and Immunology Department",7
+"2688","Rheumatism and Immunology Department","Rheumatism and Immunology Department",9
+"2689","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2690","Rheumatism and Immunology Department","Rheumatism and Immunology Department",8
+"2691","Rheumatism and Immunology Department","Rheumatism and Immunology Department",6
+"2692","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2693","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2694","Rheumatism and Immunology Department","Rheumatism and Immunology Department",3
+"2695","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2696","Rheumatism and Immunology Department","Rheumatism and Immunology Department",5
+"2697","Rheumatism and Immunology Department","Rheumatism and Immunology Department",3
+"2698","Rheumatism and Immunology Department","Rheumatism and Immunology Department",4
+"2699","Rheumatism and Immunology Department","Rheumatism and Immunology Department",2
+"2700","Rheumatism and Immunology Department","Rheumatism and Immunology Department",2
+"2701","Rheumatism and Immunology Department","Rheumatism and Immunology Department",2
+"2702","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2703","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2704","Rheumatism and Immunology Department","Rheumatism and Immunology Department",1
+"2705","Rheumatism and Immunology Department","Rheumatism and Immunology Department",2
+"2706","Z7 Head and Neck Oncology DepartmentⅠ","Rheumatism and Immunology Department",1
+"2707","Stem Cell Center Cell Therapy Department","Stem Cell Center Cell Therapy Department",1
+"2708","surgical","surgical",1
+"2709","Cardiac Large Vascular Surgery","Thoracic Surgery",1
+"2710","Cardiac Large Vascular Surgery","Thoracic Surgery",1
+"2711","Cardiology","Thoracic Surgery",1
+"2712","Cardiology","Thoracic Surgery",1
+"2713","Cardiology","Thoracic Surgery",1
+"2714","Cardiology","Thoracic Surgery",1
+"2715","Cardiology","Thoracic Surgery",1
+"2716","Cardiology","Thoracic Surgery",1
+"2717","Cardiology","Thoracic Surgery",1
+"2718","Cardiology","Thoracic Surgery",1
+"2719","Chest Oncology Surgery","Thoracic Surgery",1
+"2720","Chest Oncology Surgery","Thoracic Surgery",2
+"2721","Chest Oncology Surgery","Thoracic Surgery",1
+"2722","Chest Oncology Surgery","Thoracic Surgery",1
+"2723","Chest Oncology Surgery","Thoracic Surgery",2
+"2724","Comprehensive internal medicine","Thoracic Surgery",1
+"2725","Comprehensive internal medicine","Thoracic Surgery",1
+"2726","Comprehensive internal medicine","Thoracic Surgery",1
+"2727","Comprehensive internal medicine","Thoracic Surgery",1
+"2728","Gastroenterology","Thoracic Surgery",1
+"2729","Gastroenterology","Thoracic Surgery",1
+"2730","Gastroenterology","Thoracic Surgery",1
+"2731","Gastroenterology","Thoracic Surgery",1
+"2732","L5 osteosoft tissue oncology department","Thoracic Surgery",1
+"2733","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2734","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2735","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2736","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2737","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2738","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2739","Respiratory and Critical Care Medicine","Thoracic Surgery",1
+"2740","Respiratory Medicine","Thoracic Surgery",1
+"2741","Respiratory Medicine","Thoracic Surgery",2
+"2742","Respiratory Medicine","Thoracic Surgery",1
+"2743","Respiratory Medicine","Thoracic Surgery",1
+"2744","Respiratory Medicine","Thoracic Surgery",1
+"2745","Respiratory Medicine","Thoracic Surgery",2
+"2746","Respiratory Medicine","Thoracic Surgery",1
+"2747","Respiratory Medicine","Thoracic Surgery",1
+"2748","Respiratory Medicine","Thoracic Surgery",1
+"2749","Thoracic Surgery","Thoracic Surgery",1
+"2750","Thoracic Surgery","Thoracic Surgery",1
+"2751","Thoracic Surgery","Thoracic Surgery",2
+"2752","Thoracic Surgery","Thoracic Surgery",3
+"2753","Thoracic Surgery","Thoracic Surgery",3
+"2754","Thoracic Surgery","Thoracic Surgery",3
+"2755","Thoracic Surgery","Thoracic Surgery",7
+"2756","Thoracic Surgery","Thoracic Surgery",4
+"2757","Thoracic Surgery","Thoracic Surgery",2
+"2758","Thoracic Surgery","Thoracic Surgery",4
+"2759","Thoracic Surgery","Thoracic Surgery",4
+"2760","Thoracic Surgery","Thoracic Surgery",3
+"2761","Thoracic Surgery","Thoracic Surgery",5
+"2762","Thoracic Surgery","Thoracic Surgery",7
+"2763","Thoracic Surgery","Thoracic Surgery",10
+"2764","Thoracic Surgery","Thoracic Surgery",8
+"2765","Thoracic Surgery","Thoracic Surgery",16
+"2766","Thoracic Surgery","Thoracic Surgery",8
+"2767","Thoracic Surgery","Thoracic Surgery",9
+"2768","Thoracic Surgery","Thoracic Surgery",11
+"2769","Thoracic Surgery","Thoracic Surgery",9
+"2770","Thoracic Surgery","Thoracic Surgery",13
+"2771","Thoracic Surgery","Thoracic Surgery",9
+"2772","Thoracic Surgery","Thoracic Surgery",3
+"2773","Thoracic Surgery","Thoracic Surgery",4
+"2774","Thoracic Surgery","Thoracic Surgery",7
+"2775","Thoracic Surgery","Thoracic Surgery",5
+"2776","Thoracic Surgery","Thoracic Surgery",2
+"2777","Thoracic Surgery","Thoracic Surgery",9
+"2778","Thoracic Surgery","Thoracic Surgery",5
+"2779","Thoracic Surgery","Thoracic Surgery",5
+"2780","Thoracic Surgery","Thoracic Surgery",5
+"2781","Thoracic Surgery","Thoracic Surgery",3
+"2782","Thoracic Surgery","Thoracic Surgery",1
+"2783","Thoracic Surgery","Thoracic Surgery",1
+"2784","Thoracic Surgery","Thoracic Surgery",2
+"2785","Thoracic Surgery","Thoracic Surgery",1
+"2786","Z14 Chest Oncology Department II","Thoracic Surgery",1
+"2787","Z15 chest tumorⅣ","Thoracic Surgery",1
+"2788","Department of Traditional Chinese Medicine","Tumor ICU",1
+"2789","Tumor ICU","Tumor ICU",1
+"2790","Tumor ICU","Tumor ICU",1
+"2791","Cardiology","Urology",1
+"2792","Cardiology","Urology",1
+"2793","Cardiology","Urology",1
+"2794","Cardiology","Urology",1
+"2795","Cardiology","Urology",2
+"2796","Cardiology","Urology",1
+"2797","Cardiology","Urology",1
+"2798","Cardiology","Urology",1
+"2799","Comprehensive internal medicine","Urology",1
+"2800","Comprehensive internal medicine","Urology",1
+"2801","Department of Critical Care Medicine","Urology",1
+"2802","Department of Critical Care Medicine","Urology",1
+"2803","Department of Infectious Diseases","Urology",1
+"2804","Endocrinology Department","Urology",1
+"2805","Endocrinology Department","Urology",1
+"2806","Gastroenterology","Urology",1
+"2807","Gastroenterology","Urology",1
+"2808","Gastroenterology Surgery","Urology",1
+"2809","Hepatobiliary Surgery","Urology",1
+"2810","Nephropathy Department","Urology",1
+"2811","Nephropathy Department","Urology",1
+"2812","Respiratory Medicine","Urology",1
+"2813","Urology","Urology",1
+"2814","Urology","Urology",2
+"2815","Urology","Urology",4
+"2816","Urology","Urology",2
+"2817","Urology","Urology",3
+"2818","Urology","Urology",1
+"2819","Urology","Urology",1
+"2820","Urology","Urology",2
+"2821","Urology","Urology",1
+"2822","Urology","Urology",2
+"2823","Urology","Urology",3
+"2824","Urology","Urology",4
+"2825","Urology","Urology",3
+"2826","Urology","Urology",3
+"2827","Urology","Urology",5
+"2828","Urology","Urology",10
+"2829","Urology","Urology",9
+"2830","Urology","Urology",18
+"2831","Urology","Urology",12
+"2832","Urology","Urology",10
+"2833","Urology","Urology",15
+"2834","Urology","Urology",11
+"2835","Urology","Urology",16
+"2836","Urology","Urology",23
+"2837","Urology","Urology",22
+"2838","Urology","Urology",14
+"2839","Urology","Urology",17
+"2840","Urology","Urology",18
+"2841","Urology","Urology",24
+"2842","Urology","Urology",40
+"2843","Urology","Urology",34
+"2844","Urology","Urology",41
+"2845","Urology","Urology",36
+"2846","Urology","Urology",43
+"2847","Urology","Urology",33
+"2848","Urology","Urology",29
+"2849","Urology","Urology",38
+"2850","Urology","Urology",35
+"2851","Urology","Urology",32
+"2852","Urology","Urology",26
+"2853","Urology","Urology",21
+"2854","Urology","Urology",33
+"2855","Urology","Urology",33
+"2856","Urology","Urology",15
+"2857","Urology","Urology",19
+"2858","Urology","Urology",19
+"2859","Urology","Urology",8
+"2860","Urology","Urology",17
+"2861","Urology","Urology",16
+"2862","Urology","Urology",15
+"2863","Urology","Urology",17
+"2864","Urology","Urology",8
+"2865","Urology","Urology",12
+"2866","Urology","Urology",8
+"2867","Urology","Urology",7
+"2868","Urology","Urology",1
+"2869","Urology","Urology",4
+"2870","Urology","Urology",1
+"2871","Urology","Urology",1
+"2872","Urology","Urology",1
+"2873","Urology","Urology",1
+"2874","Vascular Surgery","Urology",1
+"2875","Vascular Surgery","Urology",1
+"2876","Pancreatic Surgery","V1 interventional department",1
+"2877","Comprehensive internal medicine","V4 Surgery Comprehensive Ward",1
+"2878","Comprehensive internal medicine","V4 Surgery Comprehensive Ward",1
+"2879","Comprehensive internal medicine","V4 Surgery Comprehensive Ward",1
+"2880","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2881","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2882","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2883","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2884","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2885","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",2
+"2886","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",2
+"2887","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2888","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2889","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",3
+"2890","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2891","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",2
+"2892","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2893","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2894","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2895","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2896","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2897","V4 Surgery Comprehensive Ward","V4 Surgery Comprehensive Ward",1
+"2898","Gastroenterology","V5 General Medicine",1
+"2899","V5 General Medicine","V5 General Medicine",1
+"2900","V5 General Medicine","V5 General Medicine",2
+"2901","V5 General Medicine","V5 General Medicine",1
+"2902","V5 General Medicine","V5 General Medicine",2
+"2903","V5 General Medicine","V5 General Medicine",2
+"2904","V5 General Medicine","V5 General Medicine",1
+"2905","V5 General Medicine","V5 General Medicine",3
+"2906","V5 General Medicine","V5 General Medicine",3
+"2907","V5 General Medicine","V5 General Medicine",1
+"2908","V5 General Medicine","V5 General Medicine",1
+"2909","V5 General Medicine","V5 General Medicine",1
+"2910","V5 General Medicine","V5 General Medicine",2
+"2911","V5 General Medicine","V5 General Medicine",1
+"2912","V5 General Medicine","V5 General Medicine",3
+"2913","V5 General Medicine","V5 General Medicine",4
+"2914","V5 General Medicine","V5 General Medicine",1
+"2915","V5 General Medicine","V5 General Medicine",1
+"2916","V5 General Medicine","V5 General Medicine",1
+"2917","V5 General Medicine","V5 General Medicine",6
+"2918","V5 General Medicine","V5 General Medicine",2
+"2919","V5 General Medicine","V5 General Medicine",1
+"2920","V5 General Medicine","V5 General Medicine",1
+"2921","V5 General Medicine","V5 General Medicine",1
+"2922","V5 General Medicine","V5 General Medicine",1
+"2923","V5 General Medicine","V5 General Medicine",3
+"2924","V5 General Medicine","V5 General Medicine",1
+"2925","V5 General Medicine","V5 General Medicine",1
+"2926","V5 General Medicine","V5 General Medicine",1
+"2927","V5 General Medicine","V5 General Medicine",1
+"2928","V5 General Medicine","V5 General Medicine",1
+"2929","V5 General Medicine","V5 General Medicine",4
+"2930","V5 General Medicine","V5 General Medicine",1
+"2931","V5 General Medicine","V5 General Medicine",1
+"2932","V5 General Medicine","V5 General Medicine",2
+"2933","V5 General Medicine","V5 General Medicine",1
+"2934","Anorectal Surgery","Vascular Surgery",1
+"2935","Cardiac Large Vascular Surgery","Vascular Surgery",1
+"2936","Cardiac Large Vascular Surgery","Vascular Surgery",1
+"2937","Cardiac Large Vascular Surgery","Vascular Surgery",1
+"2938","Cardiac Large Vascular Surgery","Vascular Surgery",1
+"2939","Cardiac Large Vascular Surgery","Vascular Surgery",1
+"2940","Cardiology","Vascular Surgery",1
+"2941","Cardiology","Vascular Surgery",2
+"2942","Cardiology","Vascular Surgery",1
+"2943","Cardiology","Vascular Surgery",2
+"2944","Cardiology","Vascular Surgery",1
+"2945","Comprehensive internal medicine","Vascular Surgery",1
+"2946","Comprehensive internal medicine","Vascular Surgery",1
+"2947","Department of Traditional Chinese Medicine","Vascular Surgery",1
+"2948","Emergency Surgery","Vascular Surgery",1
+"2949","Emergency Surgery","Vascular Surgery",1
+"2950","Emergency Surgery","Vascular Surgery",1
+"2951","Emergency Surgery","Vascular Surgery",1
+"2952","Emergency Surgery","Vascular Surgery",1
+"2953","Endocrinology Department","Vascular Surgery",1
+"2954","Gastroenterology","Vascular Surgery",1
+"2955","Gastroenterology","Vascular Surgery",1
+"2956","Gastroenterology","Vascular Surgery",1
+"2957","Gastroenterology Surgery","Vascular Surgery",1
+"2958","Gastroenterology Surgery","Vascular Surgery",1
+"2959","Gynecology","Vascular Surgery",1
+"2960","Gynecology","Vascular Surgery",1
+"2961","Hepatobiliary Surgery","Vascular Surgery",1
+"2962","Interventional Radiology","Vascular Surgery",1
+"2963","Nephropathy Department","Vascular Surgery",1
+"2964","Nephropathy Department","Vascular Surgery",1
+"2965","Nephropathy Department","Vascular Surgery",1
+"2966","Nephropathy Department","Vascular Surgery",1
+"2967","Nephropathy Department","Vascular Surgery",1
+"2968","Nephropathy Department","Vascular Surgery",1
+"2969","Neurology","Vascular Surgery",1
+"2970","Neurology","Vascular Surgery",1
+"2971","Neurology","Vascular Surgery",1
+"2972","Neurology","Vascular Surgery",1
+"2973","Neurology","Vascular Surgery",1
+"2974","orthopedics","Vascular Surgery",1
+"2975","Respiratory Medicine","Vascular Surgery",1
+"2976","Rheumatism and Immunology Department","Vascular Surgery",1
+"2977","Urology","Vascular Surgery",1
+"2978","Urology","Vascular Surgery",1
+"2979","Urology","Vascular Surgery",1
+"2980","Vascular Surgery","Vascular Surgery",1
+"2981","Vascular Surgery","Vascular Surgery",1
+"2982","Vascular Surgery","Vascular Surgery",1
+"2983","Vascular Surgery","Vascular Surgery",1
+"2984","Vascular Surgery","Vascular Surgery",2
+"2985","Vascular Surgery","Vascular Surgery",1
+"2986","Vascular Surgery","Vascular Surgery",1
+"2987","Vascular Surgery","Vascular Surgery",1
+"2988","Vascular Surgery","Vascular Surgery",2
+"2989","Vascular Surgery","Vascular Surgery",2
+"2990","Vascular Surgery","Vascular Surgery",1
+"2991","Vascular Surgery","Vascular Surgery",1
+"2992","Vascular Surgery","Vascular Surgery",7
+"2993","Vascular Surgery","Vascular Surgery",5
+"2994","Vascular Surgery","Vascular Surgery",5
+"2995","Vascular Surgery","Vascular Surgery",2
+"2996","Vascular Surgery","Vascular Surgery",8
+"2997","Vascular Surgery","Vascular Surgery",5
+"2998","Vascular Surgery","Vascular Surgery",4
+"2999","Vascular Surgery","Vascular Surgery",3
+"3000","Vascular Surgery","Vascular Surgery",12
+"3001","Vascular Surgery","Vascular Surgery",8
+"3002","Vascular Surgery","Vascular Surgery",11
+"3003","Vascular Surgery","Vascular Surgery",7
+"3004","Vascular Surgery","Vascular Surgery",20
+"3005","Vascular Surgery","Vascular Surgery",19
+"3006","Vascular Surgery","Vascular Surgery",24
+"3007","Vascular Surgery","Vascular Surgery",30
+"3008","Vascular Surgery","Vascular Surgery",25
+"3009","Vascular Surgery","Vascular Surgery",28
+"3010","Vascular Surgery","Vascular Surgery",35
+"3011","Vascular Surgery","Vascular Surgery",33
+"3012","Vascular Surgery","Vascular Surgery",36
+"3013","Vascular Surgery","Vascular Surgery",23
+"3014","Vascular Surgery","Vascular Surgery",20
+"3015","Vascular Surgery","Vascular Surgery",29
+"3016","Vascular Surgery","Vascular Surgery",38
+"3017","Vascular Surgery","Vascular Surgery",29
+"3018","Vascular Surgery","Vascular Surgery",37
+"3019","Vascular Surgery","Vascular Surgery",19
+"3020","Vascular Surgery","Vascular Surgery",25
+"3021","Vascular Surgery","Vascular Surgery",28
+"3022","Vascular Surgery","Vascular Surgery",24
+"3023","Vascular Surgery","Vascular Surgery",28
+"3024","Vascular Surgery","Vascular Surgery",22
+"3025","Vascular Surgery","Vascular Surgery",17
+"3026","Vascular Surgery","Vascular Surgery",13
+"3027","Vascular Surgery","Vascular Surgery",16
+"3028","Vascular Surgery","Vascular Surgery",8
+"3029","Vascular Surgery","Vascular Surgery",6
+"3030","Vascular Surgery","Vascular Surgery",6
+"3031","Vascular Surgery","Vascular Surgery",10
+"3032","Vascular Surgery","Vascular Surgery",5
+"3033","Vascular Surgery","Vascular Surgery",3
+"3034","Vascular Surgery","Vascular Surgery",2
+"3035","Vascular Surgery","Vascular Surgery",2
+"3036","Vascular Surgery","Vascular Surgery",3
+"3037","Vascular Surgery","Vascular Surgery",1
+"3038","Z10 Abdominal Oncology Department II","Vascular Surgery",1
+"3039","Z14 Chest Oncology Department II","Vascular Surgery",1
+"3040","Gastroenterology","W20 Gastroenterology Surgery",1
+"3041","W20 Gastroenterology Surgery","W20 Gastroenterology Surgery",1
+"3042","orthopedics","W27 Orthopedics",1
+"3043","orthopedics","W7ICU",1
+"3044","V4 Surgery Comprehensive Ward","W7ICU",1
+"3045","Cardiology","W9 Cardiac Surgery",1
+"3046","Department of Traditional Chinese Medicine","Z10 Abdominal Oncology Department II",1
+"3047","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3048","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3049","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",5
+"3050","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",6
+"3051","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",18
+"3052","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",14
+"3053","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",8
+"3054","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",22
+"3055","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",17
+"3056","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",5
+"3057","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",5
+"3058","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",3
+"3059","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3060","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",2
+"3061","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3062","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3063","Z10 Abdominal Oncology Department II","Z10 Abdominal Oncology Department II",1
+"3064","Z9 Abdominal Oncology Department","Z10 Abdominal Oncology Department II",1
+"3065","Z10 Head and Neck Oncology Department of Chemoradiotherapy","Z10 Head and Neck Oncology Department of Chemoradiotherapy",1
+"3066","Endocrinology Department","Z11 Digestive Oncology Department I",1
+"3067","Gastroenterology Surgery","Z11 Digestive Oncology Department I",1
+"3068","Gastroenterology Surgery II","Z11 Digestive Oncology Department I",1
+"3069","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",12
+"3070","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",2
+"3071","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",2
+"3072","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",6
+"3073","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3074","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3075","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",11
+"3076","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",4
+"3077","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3078","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3079","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",2
+"3080","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3081","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",8
+"3082","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3083","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",4
+"3084","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3085","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3086","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",11
+"3087","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",2
+"3088","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3089","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",4
+"3090","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",1
+"3091","Z11 Digestive Oncology Department I","Z11 Digestive Oncology Department I",7
+"3092","Gastroenterology Surgery","Z12 Chest Oncology DepartmentⅠ",1
+"3093","Urology","Z12 Chest Oncology DepartmentⅠ",1
+"3094","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3095","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",2
+"3096","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3097","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",5
+"3098","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",4
+"3099","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3100","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",4
+"3101","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",2
+"3102","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",2
+"3103","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",8
+"3104","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",3
+"3105","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",2
+"3106","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3107","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3108","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",9
+"3109","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",7
+"3110","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",2
+"3111","Z12 Chest Oncology DepartmentⅠ","Z12 Chest Oncology DepartmentⅠ",1
+"3112","Department of Traditional Chinese Medicine","Z13 Chest Oncology Department I",1
+"3113","Department of Traditional Chinese Medicine","Z13 Chest Oncology Department I",1
+"3114","Respiratory and Critical Care Medicine","Z13 Chest Oncology Department I",1
+"3115","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3116","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",4
+"3117","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",2
+"3118","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",5
+"3119","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",2
+"3120","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3121","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",5
+"3122","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",2
+"3123","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3124","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",9
+"3125","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",8
+"3126","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",7
+"3127","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",5
+"3128","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",4
+"3129","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3130","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",5
+"3131","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3132","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",2
+"3133","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3134","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",2
+"3135","Z13 Chest Oncology Department I","Z13 Chest Oncology Department I",1
+"3136","Comprehensive internal medicine","Z14 Chest Oncology Department II",1
+"3137","Gastroenterology","Z14 Chest Oncology Department II",1
+"3138","Gastroenterology Surgery","Z14 Chest Oncology Department II",1
+"3139","Neurology","Z14 Chest Oncology Department II",1
+"3140","Thoracic Surgery","Z14 Chest Oncology Department II",1
+"3141","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",2
+"3142","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",4
+"3143","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",3
+"3144","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",6
+"3145","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",1
+"3146","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",2
+"3147","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",2
+"3148","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",16
+"3149","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",13
+"3150","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",8
+"3151","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",7
+"3152","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",4
+"3153","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",6
+"3154","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",10
+"3155","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",4
+"3156","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",3
+"3157","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",1
+"3158","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",1
+"3159","Z14 Chest Oncology Department II","Z14 Chest Oncology Department II",4
+"3160","Z16 Comprehensive Ward","Z14 Chest Oncology Department II",1
+"3161","Z9 Abdominal Oncology Department","Z14 Chest Oncology Department II",1
+"3162","Department of Traditional Chinese Medicine","Z15 chest tumorⅣ",1
+"3163","Z15 chest tumorⅣ","Z15 chest tumorⅣ",1
+"3164","Z15 chest tumorⅣ","Z15 chest tumorⅣ",4
+"3165","Z15 chest tumorⅣ","Z15 chest tumorⅣ",5
+"3166","Z15 chest tumorⅣ","Z15 chest tumorⅣ",3
+"3167","Z15 chest tumorⅣ","Z15 chest tumorⅣ",2
+"3168","Z15 chest tumorⅣ","Z15 chest tumorⅣ",6
+"3169","Z15 chest tumorⅣ","Z15 chest tumorⅣ",8
+"3170","Z15 chest tumorⅣ","Z15 chest tumorⅣ",1
+"3171","Z15 chest tumorⅣ","Z15 chest tumorⅣ",5
+"3172","Z15 chest tumorⅣ","Z15 chest tumorⅣ",1
+"3173","Z15 chest tumorⅣ","Z15 chest tumorⅣ",12
+"3174","Z15 chest tumorⅣ","Z15 chest tumorⅣ",2
+"3175","Z15 chest tumorⅣ","Z15 chest tumorⅣ",4
+"3176","Z15 chest tumorⅣ","Z15 chest tumorⅣ",6
+"3177","Z15 chest tumorⅣ","Z15 chest tumorⅣ",3
+"3178","Z15 chest tumorⅣ","Z15 chest tumorⅣ",1
+"3179","Z11 Digestive Oncology Department I","Z16 Comprehensive Ward",1
+"3180","Z12 Chest Oncology DepartmentⅠ","Z16 Comprehensive Ward",1
+"3181","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3182","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3183","Z16 Comprehensive Ward","Z16 Comprehensive Ward",5
+"3184","Z16 Comprehensive Ward","Z16 Comprehensive Ward",6
+"3185","Z16 Comprehensive Ward","Z16 Comprehensive Ward",4
+"3186","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3187","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3188","Z16 Comprehensive Ward","Z16 Comprehensive Ward",2
+"3189","Z16 Comprehensive Ward","Z16 Comprehensive Ward",5
+"3190","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3191","Z16 Comprehensive Ward","Z16 Comprehensive Ward",11
+"3192","Z16 Comprehensive Ward","Z16 Comprehensive Ward",5
+"3193","Z16 Comprehensive Ward","Z16 Comprehensive Ward",3
+"3194","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3195","Z16 Comprehensive Ward","Z16 Comprehensive Ward",1
+"3196","Z7 Breast Oncology Chemotherapy Department","Z7 Breast Oncology Chemotherapy Department",1
+"3197","Department of Traditional Chinese Medicine","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3198","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3199","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3200","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",2
+"3201","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3202","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",5
+"3203","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",2
+"3204","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3205","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3206","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",2
+"3207","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",2
+"3208","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3209","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",4
+"3210","Z7 Head and Neck Oncology DepartmentⅠ","Z7 Head and Neck Oncology DepartmentⅠ",1
+"3211","Otolaryngology","Z8 Head and Neck Oncology Department II",1
+"3212","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3213","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3214","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3215","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",3
+"3216","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3217","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3218","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3219","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3220","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",4
+"3221","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3222","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3223","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3224","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3225","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",2
+"3226","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",6
+"3227","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3228","Z8 Head and Neck Oncology Department II","Z8 Head and Neck Oncology Department II",1
+"3229","Gastroenterology","Z9 Abdominal Oncology Department",1
+"3230","Z16 Comprehensive Ward","Z9 Abdominal Oncology Department",1
+"3231","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",1
+"3232","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",1
+"3233","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",3
+"3234","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",3
+"3235","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",19
+"3236","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",9
+"3237","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",1
+"3238","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",2
+"3239","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",18
+"3240","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",1
+"3241","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",5
+"3242","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",7
+"3243","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",2
+"3244","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",1
+"3245","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",2
+"3246","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",2
+"3247","Z9 Abdominal Oncology Department","Z9 Abdominal Oncology Department",2
+"3248","Gastroenterology Surgery II","Z9 Abdominal Oncology DepartmentⅠ",1

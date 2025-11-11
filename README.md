@@ -6,7 +6,7 @@ This project contains Python scripts for privacy-preserving processing of EHR da
 
 ## Data
 
-The original EHR data are hosted on the OMIX platform under controlled access (accession number: OMIX010546). Please submit a formal request to access the dataset.
+The original EHR data are hosted on the OMIX platform under controlled access (accession number: OMIX012906). Please submit a formal request to access the dataset.
 
 ## Quick Start
 
